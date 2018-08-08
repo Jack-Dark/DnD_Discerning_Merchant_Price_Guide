@@ -1,0 +1,522 @@
+POTION OR OIL RARITY SUGGESTED COST REFERENCE
+Perfume of Bewitching Common 75 gp Xanathar's Guide to Everything, Page 138
+Potion of Climbing Common 30 gp Dungeon Master's Guide, Page 187
+Potion of Giant Strength (Hill) Common 100 gp Dungeon Master's Guide, Page 187
+Potion of Healing (Common) Common 50 gp Dungeon Master's Guide, Page 187-188
+Bottled Breath Uncommon 350 gp Princes of the Apocalypse, Page 222
+Oil of Slipperiness Uncommon 250 gp Dungeon Master's Guide, Page 184
+Philter of Love Uncommon 150 gp Dungeon Master's Guide, Page 184
+Potion of Animal Friendship Uncommon 200 gp Dungeon Master's Guide, Page 187
+Potion of Fire Breath Uncommon 350 gp Dungeon Master's Guide, Page 187
+Potion of Giant Strength (Frost/Stone) Uncommon 400 gp Dungeon Master's Guide, Page 187
+Potion of Growth Uncommon 300 gp Dungeon Master's Guide, Page 187
+Potion of Healing (Uncommon) Uncommon 300 gp Dungeon Master's Guide, Page 187-188
+Potion of Poison Uncommon 500 gp Dungeon Master's Guide, Page 188
+Potion of Resistance Uncommon 500 gp Dungeon Master's Guide, Page 188
+Potion of Waterbreathing Uncommon 400 gp Dungeon Master's Guide, Page 188
+Elixir of Health Rare 2,000 gp Dungeon Master's Guide, Page 168
+Oil of Etherealness Rare 2,000 gp Dungeon Master's Guide, Page 183
+Potion of Clairvoyance Rare 900 gp Dungeon Master's Guide, Page 187
+Potion of Diminution Rare 500 gp Dungeon Master's Guide, Page 187
+Potion of Gaseous Form Rare 1,500 gp Dungeon Master's Guide, Page 187
+Potion of Giant Strength (Fire) Rare 1,200 gp Dungeon Master's Guide, Page 187
+Potion of Healing (Rare) Rare 750 gp Dungeon Master's Guide, Page 187-188
+Potion of Heroism Rare 800 gp Dungeon Master's Guide, Page 188
+Potion of Invulnerability Rare 1,500 gp Dungeon Master's Guide, Page 188
+Potion of Mind Control (beast) Rare 1,600 gp Tales from the Yawning Portal, Page 229
+Potion of Mind Control (humanoid) Rare 2,500 gp Tales from the Yawning Portal, Page 229
+Potion of Mind Reading Rare 1,100 gp Dungeon Master's Guide, Page 188
+Oil of Sharpness Very Rare 2,200 gp Dungeon Master's Guide, Page 184
+Potion of Flying Very Rare 2,500 gp Dungeon Master's Guide, Page 187
+Potion of Giant Strength (Cloud) Very Rare 1,800 gp Dungeon Master's Guide, Page 187
+Potion of Healing (Very Rare) Very Rare 1,500 gp Dungeon Master's Guide, Page 187-188
+Potion of Invisibility Very Rare 2,000 gp Dungeon Master's Guide, Page 188
+Potion of Longevity Very Rare 3,000 gp Dungeon Master's Guide, Page 188
+Potion of Mind Control (monster) Very Rare 6,000 gp Tales from the Yawning Portal, Page 229
+Potion of Speed Very Rare 2,000 gp Dungeon Master's Guide, Page 188
+Potion of Vitality Very Rare 1,800 gp Dungeon Master's Guide, Page 188
+Potion of Giant Size Legendary 11,000 gp Storm King's Thunder, Page 236
+Potion of Giant Strength (Storm) Legendary 8,000 gp Dungeon Master's Guide, Page 187
+Potions & Oils
+Arcane circles designed by Obsidian Dawn.
+
+WEAPON ATTUNE? RARITY SUGGESTED COST REFERENCE
+Moon-Touched Sword (any sword) No Common +75 gp Xanathar's Guide to Everything, Page 138
+Veteran's Cane No Common 50 gp Xanathar's Guide to Everything, Page 139
+ +1 Weapon (any) No Uncommon 500 gp Dungeon Master's Guide, Page 213
+Blood Spear Yes Uncommon 375 gp Curse of Strahd, Page 221
+Ild Rune Weapon (any weapon) No Uncommon 400 gp Storm King's Thunder, Page 235
+Javelin of Lightning No Uncommon 350 gp Dungeon Master's Guide, Page 178
+Seeker Dart No Uncommon 100 gp Princes of the Apocalypse, Page 223
+Shatterspike (longsword) Yes Uncommon 550 gp Tales from the Yawning Portal, Page 229
+Skold Rune Weapon
+(any two-handed melee weapon) No Uncommon 500 gp Storm King's Thunder, Page 234
+Storm Boomerang No Uncommon 150 gp Princes of the Apocalypse, Page 223
+Sword of Vengeance (any sword) Yes Uncommon 400 gp Dungeon Master's Guide, Page 206
+Trident of Fish Command Yes Uncommon 300 gp Dungeon Master's Guide, Page 209
+Weapon of Warning Yes Uncommon 400 gp Dungeon Master's Guide, Page 213
+ +2 Weapon (any) No Rare 2,500 gp Dungeon Master's Guide, Page 213
+Berserker Axe (cursed) Yes Rare 2,000 gp Dungeon Master's Guide, Page 155
+Dagger of Venom No Rare 1,500 gp Dungeon Master's Guide, Page 161
+Dragon Slayer (any sword) No Rare 4,800 gp Dungeon Master's Guide, Page 166
+Dragontooth Dagger No Rare 5,000 gp The Rise of Tiamat, Page 93
+Flame Tongue (any sword) Yes Rare 5,000 gp Dungeon Master's Guide, Page 170
+Giant Slayer (any axe or sword) No Rare 4,600 gp Dungeon Master's Guide, Page 172
+Mace of Disruption Yes Rare 1,750 gp Dungeon Master's Guide, Page 179
+Mace of Smiting No Rare 2,000 gp Dungeon Master's Guide, Page 179
+Mace of Terror Yes Rare 3,500 gp Dungeon Master's Guide, Page 180
+Sun Blade (longsword) Yes Rare 2,000 gp Dungeon Master's Guide, Page 205
+Sword of Life Stealing (any sword) Yes Rare 2,200 gp Dungeon Master's Guide, Page 206
+Sword of Wounding (any sword) Yes Rare 1,200 gp Dungeon Master's Guide, Page 207
+Vicious Weapon (any weapon) No Rare 4,000 gp Dungeon Master's Guide, Page 209
+ +3 Weapon (any) No Very Rare 15,000 gp Dungeon Master's Guide, Page 213
+Dancing Sword (any sword) Yes Very Rare 10,000 gp Dungeon Master's Guide, Page 161
+Dwarven Thrower (warhammer) Yes Very Rare 25,000 gp Dungeon Master's Guide, Page 167
+Frost Brand (any sword) Yes Very Rare 11,000 gp Dungeon Master's Guide, Page 171
+
+Weapons
+SCROLL SAVE DC ATTACK BONUS RARITY SUGGESTED COST REFERENCE
+Spell Scroll or Gem (Cantrip) 13 +5 Common 15 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scroll or Gem (1st Level) 13 +5 Common 25 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scroll or Gem (2nd Level) 13 +5 Uncommon 150 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scroll or Gem (3rd Level) 15 +7 Uncommon 400 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scroll or Gem (4th Level) 15 +7 Rare 800 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scroll or Gem (5th Level) 17 +9 Rare 1,500 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Scroll of Protection — — Rare 3,500 gp Dungeon Master's Guide, Page 199
+Spell Scroll or Gem (6th Level) 17 +9 Very Rare 2,000 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scroll or Gem (7th Level) 18 +10 Very Rare 3,500 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scroll or Gem (8th Level) 18 +10 Very Rare 5,000 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scroll or Gem (9th Level) 19 +11 Legendary 20,000 gp Dungeon Master's Guide, Page 200; Out of the Abyss, Page 223
+Spell Scrolls & Gems
+
+Ammunition
+WEAPON ATTUNE? RARITY SUGGESTED COST REFERENCE
+Nine Lives Stealer (any sword) Yes Very Rare 36,000 gp Dungeon Master's Guide, Page 183
+Oathbow (longbow) Yes Very Rare 13,000 gp Dungeon Master's Guide, Page 183
+Scimitar of Speed Yes Very Rare 7,500 gp Dungeon Master's Guide, Page 199
+Spear of Backbiting (spear or javelin) Yes Very Rare 6,500 gp Tales from the Yawning Portal, Page 229
+Sword of Sharpness (slashing swords) Yes Very Rare 42,000 gp Dungeon Master's Guide, Page 206
+Bookmark (dagger) Yes Legendary 30,000 gp Tomb of Annihilation, Page 206
+Dawnbringer (longsword) Yes (non-evil) Legendary 57,000 gp Out of the Abyss, Page 222
+Defender (any sword) Yes Legendary 55,000 gp Dungeon Master's Guide, Page 164
+Drown (trident) Yes Legendary 66,000 gp Princes of the Apocalypse, Page 224
+Gurt's Greataxe Yes Legendary 67,000 gp Storm King's Thunder, Page 234
+Hammer of Thunderbolts (maul) Yes Legendary 51,000 gp Dungeon Master's Guide, Page 173
+Hazirawn (greatsword) Yes Legendary 66,000 gp Hoard of the Dragon Queen, Page 94
+Holy Avenger (any sword) Yes (paladin) Legendary 65,000 gp Dungeon Master's Guide, Page 174
+Ironfang (war pick) Yes Legendary 76,000 gp Princes of the Apocalypse, Page 224-225
+Korolnor Scepter Yes Legendary 63,000 gp Storm King's Thunder, Page 234-235
+Luck Blade (any sword) Yes Legendary 100,000 gp Dungeon Master's Guide, Page 179
+Orcsplitter (greataxe) Yes (good dwarf/fighter/paladin) Legendary 60,000 gp Princes of the Apocalypse, Page 224
+Sunsword (longsword) Yes Legendary 55,000 gp Curse of Strahd, Page 223
+Sword of Answering (longsword) Yes (same alignment) Legendary 51,000 gp Dungeon Master's Guide, Page 206
+Tinderstrike (dagger) Yes Legendary 71,000 gp Princes of the Apocalypse, Page 225
+Vorpal Sword (slashing swords) Yes Legendary 75,000 gp Dungeon Master's Guide, Page 209
+Waythe (greatsword) Yes Legendary 62,000 gp Tales from the Yawning Portal, Page 229
+Windvane (spear) Yes Legendary 68,000 gp Princes of the Apocalypse, Page 225
+
+Shields
+SHIELD ATTUNE? RARITY SUGGESTED COST REFERENCE
+Shield of Expression No Common 50 gp Xanathar's Guide to Everything, Page 139
+ +1 Shield No Uncommon 450 gp Dungeon Master's Guide, Page 200
+Sentinel Shield No Uncommon 300 gp Dungeon Master's Guide, Page 199
+ +2 Shield No Rare 4,000 gp Dungeon Master's Guide, Page 200
+Arrow-Catching Shield Yes Rare 4,500 gp Dungeon Master's Guide, Page 152
+Shield of Missile Attraction Yes Rare 1,000 gp Dungeon Master's Guide, Page 200
+Skold Rune Shield Yes Rare 2,600 gp Storm King's Thunder, Page 234
+Stein Rune Shield Yes Rare 4,600 gp Storm King's Thunder, Page 235
+ +3 Shield No Very Rare 22,000 gp Dungeon Master's Guide, Page 200
+Animated Shield Yes Very Rare 6,000 gp Dungeon Master's Guide, Page 151
+Spellguard Shield Yes Very Rare 36,000 gp Dungeon Master's Guide, Page 201
+AMMUNITION RARITY SUGGESTED COST REFERENCE
+Unbreakable Arrow (arrow) Common 25 gp Xanathar's Guide to Everything, Page 139
+Walloping Ammunition (any) Common 30 gp Xanathar's Guide to Everything, Page 139
++1 Ammunition (any) Uncommon 50 gp Dungeon Master's Guide, Page 150
++2 Ammunition (any) Rare 250 gp Dungeon Master's Guide, Page 150
++3 Ammunition (any) Very Rare 2,500 gp Dungeon Master's Guide, Page 150
+Arrow of Slaying (any) Very Rare 1,000 gp Dungeon Master's Guide, Page 152
+
+Armor
+ARMOR ATTUNE? RARITY SUGGESTED COST REFERENCE
+Armor of Gleaming (any medium or heavy) No Common +75 gp Xanathar's Guide to Everything, Page 136
+Cast-Off Armor (light, medium, or heavy) No Common +50 gp Xanathar's Guide to Everything, Page 136
+Smoldering Armor (light, medium, or heavy) No Common +75 gp Xanathar's Guide to Everything, Page 139
+Adamantine Armor (medium or heavy, but not hide) No Uncommon +500 Dungeon Master's Guide, Page 150
+Mariner's Armor (light, medium, or heavy) No Uncommon +400 Dungeon Master's Guide, Page 181
+Mithral Armor (medium or heavy, but not hide) No Uncommon +450 Dungeon Master's Guide, Page 182
+Vind Rune Armor (light, medium, or heavy) Yes Uncommon 300 gp Storm King's Thunder, Page 236
+ +1 Armor (light, medium, or heavy) No Rare 3,500 Dungeon Master's Guide, Page 152
+Aegis of the Crusader (breastplate) Yes Rare 5,000 FMR 13
+Armor of Illiir's Light (medium) No Rare 4,000 FMR 13
+Armor of Resistance (light, medium, or heavy) Yes Rare 3,000 Dungeon Master's Guide, Page 152
+Armor of Vulnerability (plate) Yes Rare 1,500 Dungeon Master's Guide, Page 152
+Elven Chain (chain shirt) No Rare 4,500 Dungeon Master's Guide, Page 168
+Glamoured Studded Leather No Rare 4,800 Dungeon Master's Guide, Page 172
+Ild Rune Armor (light, medium, or heavy) Yes Rare 3,000 gp Storm King's Thunder, Page 235
+Scorpion Armor (plate) Yes Rare 2,100 gp Tomb of Annihilation, Page 208
+ +2 Armor (light, medium, or heavy) No Very Rare 20,000 Dungeon Master's Guide, Page 152
+Demon Armor (plate) (cursed) Yes Very Rare 7,500 Dungeon Master's Guide, Page 165
+Dragon Scale Mail Yes Very Rare 15,000 Dungeon Master's Guide, Page 165
+Dwarven Plate No Very Rare 25,000 Dungeon Master's Guide, Page 167
+ +3 Armor (light, medium, or heavy) No Legendary 51,000 Dungeon Master's Guide, Page 152
+Armor of Invulnerability (plate) Yes Legendary 70,000 Dungeon Master's Guide, Page 152
+Efreeti Chain (chain mail) Yes Legendary 80,000 Dungeon Master's Guide, Page 167
+Plate Armor of Etherealness Yes Legendary 60,000 Dungeon Master's Guide, Page 185
+
+Rods
+ROD ATTUNE? RARITY SUGGESTED COST REFERENCE
+Immovable Rod No Uncommon 500 gp Dungeon Master's Guide, Page 175
+Rod of the Pact Keeper (+1) Yes Uncommon 400 gp Dungeon Master's Guide, Page 197
+Rod of Rulership Yes Rare 3,600 gp Dungeon Master's Guide, Page 197
+Rod of the Pact Keeper (+2) Yes Rare 4,000 gp Dungeon Master's Guide, Page 197
+Rod of the Vonindod Yes Rare 3,400 gp Storm King's Thunder, Page 236
+Tentacle Rod Yes Rare 2,000 gp Dungeon Master's Guide, Page 208
+Rod of Absorption Yes Very Rare 48,000 gp Dungeon Master's Guide, Page 195
+Rod of Alertness Yes Very Rare 11,000 gp Dungeon Master's Guide, Page 196
+Rod of Security No Very Rare 45,000 gp Dungeon Master's Guide, Page 197
+Rod of the Pact Keeper (+3) Yes Very Rare 14,000 gp Dungeon Master's Guide, Page 197
+Rod of Lordly Might Yes Legendary 70,000 gp Dungeon Master's Guide, Page 196
+Rod of Resurrection Yes Legendary 125,000 gp Dungeon Master's Guide, Page 197
+
+Wands
+WAND ATTUNE? RARITY SUGGESTED COST REFERENCE
+Wand of Conducting No Common 90 gp Xanathar's Guide to Everything, Page 140
+Wand of Pyrotechnics No Common 65 gp Xanathar's Guide to Everything, Page 140
+Wand of Scowls No Common 60 gp Xanathar's Guide to Everything, Page 140
+Wand of Smiles No Common 60 gp Xanathar's Guide to Everything, Page 140
+ +1 Wand of the War Mage Yes Uncommon 400 gp Dungeon Master's Guide, Page 212
+Wand of Entangle Yes (spellcaster) Uncommon 300 gp Tales from the Yawning Portal, Page 229
+Wand of Magic Detection No Uncommon 150 gp Dungeon Master's Guide, Page 211
+Wand of Magic Missiles No Uncommon 300 gp Dungeon Master's Guide, Page 211
+Wand of Secrets No Uncommon 125 gp Dungeon Master's Guide, Page 211
+Wand of Web Yes Uncommon 250 gp Dungeon Master's Guide, Page 212
+ +2 Wand of the War Mage Yes Rare 4,000 gp Dungeon Master's Guide, Page 212
+Wand of Binding Yes Rare 2,500 gp Dungeon Master's Guide, Page 209
+Wand of Enemy Detection Yes Rare 3,750 gp Dungeon Master's Guide, Page 210
+Wand of Fear Yes Rare 3,250 gp Dungeon Master's Guide, Page 210
+Wand of Fireballs Yes Rare 4,800 gp Dungeon Master's Guide, Page 210
+Wand of Lightning Bolts Yes Rare 4,800 gp Dungeon Master's Guide, Page 211
+Wand of Paralysis Yes Rare 4,250 gp Dungeon Master's Guide, Page 211
+Wand of Viscid Globs Yes Rare 900 gp Out of the Abyss, Page 223
+Wand of Winter Yes Rare 4,100 gp Hoard of the Dragon Queen, Page 94
+Wand of Wonder Yes Rare 2,250 gp Dungeon Master's Guide, Page 212
+ +3 Wand of the War Mage Yes Very Rare 14,000 gp Dungeon Master's Guide, Page 212
+Wand of Polymorph Yes Very Rare 21,000 gp Dungeon Master's Guide, Page 211
+
+Staffs
+STAFF ATTUNE? RARITY SUGGESTED COST REFERENCE
+Staff of Adornment No Common 50 gp Xanathar's Guide to Everything, Page 139
+Staff of Birdcalls No Common 70 gp Xanathar's Guide to Everything, Page 139
+Staff of Flowers No Common 50 gp Xanathar's Guide to Everything, Page 139
+Staff of the Adder Yes Uncommon 350 gp Dungeon Master's Guide, Page 203
+Staff of the Python Yes Uncommon 250 gp Dungeon Master's Guide, Page 204
+Gulthias Staff Yes Rare 2,200 gp Curse of Strahd, Page 221
+Staff of Charming Yes Rare 3,750 gp Dungeon Master's Guide, Page 201
+Staff of Healing Yes Rare 4,800 gp Dungeon Master's Guide, Page 202
+Staff of Swarming Insects Yes Rare 4,500 gp Dungeon Master's Guide, Page 203
+Staff of the Woodlands Yes Rare 4,500 gp Dungeon Master's Guide, Page 204
+Staff of Withering Yes Rare 2,100 gp Dungeon Master's Guide, Page 205
+Staff of Fire Yes Very Rare 18,000 gp Dungeon Master's Guide, Page 201
+Staff of Frost Yes Very Rare 18,000 gp Dungeon Master's Guide, Page 202
+Staff of Power Yes Very Rare 46,000 gp Dungeon Master's Guide, Page 202
+Staff of Striking Yes Very Rare 36,000 gp Dungeon Master's Guide, Page 203
+Staff of Thunder and Lightning Yes Very Rare 30,000 gp Dungeon Master's Guide, Page 204-205
+Staff of the Magi Yes Legendary 98,000 gp Dungeon Master's Guide, Page 203
+
+Rings
+RING ATTUNE? RARITY SUGGESTED COST REFERENCE
+Ring of Jumping Yes Uncommon 250 gp Dungeon Master's Guide, Page 191
+Ring of Mind Shielding Yes Uncommon 450 gp Dungeon Master's Guide, Page 191
+Ring of Swimming No Uncommon 300 gp Dungeon Master's Guide, Page 193
+Ring of Warmth Yes Uncommon 480 gp Dungeon Master's Guide, Page 193
+Ring of Water Walking No Uncommon 500 gp Dungeon Master's Guide, Page 193
+Ring of Animal Influence No Rare 1,000 gp Dungeon Master's Guide, Page 189
+Ring of Evasion Yes Rare 4,900 gp Dungeon Master's Guide, Page 191
+Ring of Feather Falling Yes Rare 2,200 gp Dungeon Master's Guide, Page 191
+Ring of Free Action Yes Rare 4,500 gp Dungeon Master's Guide, Page 191
+Ring of Protection Yes Rare 3,000 gp Dungeon Master's Guide, Page 191
+Ring of Resistance Yes Rare 3,500 gp Dungeon Master's Guide, Page 192
+Ring of Spell Storing Yes Rare 3,600 gp Dungeon Master's Guide, Page 192
+Ring of the Ram Yes Rare 4,000 gp Dungeon Master's Guide, Page 193
+Ring of X-Ray Vision Yes Rare 3,500 gp Dungeon Master's Guide, Page 193
+Ring of Regeneration Yes Very Rare 40,000 gp Dungeon Master's Guide, Page 191
+Ring of Shooting Stars Yes Very Rare 20,000 gp Dungeon Master's Guide, Page 192
+Ring of Telekinesis Yes Very Rare 25,000 gp Dungeon Master's Guide, Page 193
+Ring of Djinni Summoning Yes Legendary 125,000 gp Dungeon Master's Guide, Page 190
+Ring of Elemental Command Yes Legendary 200,000 gp Dungeon Master's Guide, Page 190
+Ring of Invisibility Yes Legendary 75,000 gp Dungeon Master's Guide, Page 191
+Ring of Spell Turning Yes Legendary 66,000 gp Dungeon Master's Guide, Page 193
+Ring of Three Wishes No Legendary 97,950 gp Dungeon Master's Guide, Page 193
+
+Wondrous Items: Head
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Dread Helm No Common 55 gp Xanathar's Guide to Everything, Page 137
+Hat of Vermin No Common 65 gp Xanathar's Guide to Everything, Page 137
+Hat of Wizardry Yes (wizard) Common 75 gp Xanathar's Guide to Everything, Page 137
+Cap of Water Breathing No Uncommon 450 gp Dungeon Master's Guide, Page 157
+Circlet of Blasting No Uncommon 350 gp Dungeon Master's Guide, Page 158
+Hat of Disguise Yes Uncommon 475 gp Dungeon Master's Guide, Page 173
+Headband of Intellect Yes Uncommon 450 gp Dungeon Master's Guide, Page 173
+Helm of Comprehending Languages No Uncommon 200 gp Dungeon Master's Guide, Page 173
+Helm of Telepathy Yes Uncommon 300 gp Dungeon Master's Guide, Page 174
+Helm of Teleportation Yes Rare 4,250 gp Dungeon Master's Guide, Page 174
+Ioun Stone: Awareness Yes Rare 4,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Protection Yes Rare 3,600 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Reserve Yes Rare 4,500 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Sustenance Yes Rare 3,000 gp Dungeon Master's Guide, Page 176-177
+Helm of Brilliance Yes Very Rare 32,000 gp Dungeon Master's Guide, Page 173
+Ioun Stone: Absorption Yes Very Rare 20,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Agility Yes Very Rare 8,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Fortitude Yes Very Rare 8,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Insight Yes Very Rare 8,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Intellect Yes Very Rare 8,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Leadership Yes Very Rare 8,000 gp Dungeon Master's Guide, Page 176-177
+
+Wondrous Items: Eyes
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Ersatz Eye Yes Common 75 gp Xanathar's Guide to Everything, Page 137
+Eyes of Charming Yes Uncommon 300 gp Dungeon Master's Guide, Page 168
+Eyes of Minute Seeing No Uncommon 150 gp Dungeon Master's Guide, Page 168
+Eyes of the Eagle Yes Uncommon 400 gp Dungeon Master's Guide, Page 168
+Goggles of Night No Uncommon 300 gp Dungeon Master's Guide, Page 172
+Mast of the Beast No Uncommon 200 gp Tomb of Annihilation, Page 207
+Black Dragon Mask Yes Legendary 95,000 gp Hoard of the Dragon Queen, Page 94
+Wondrous Items: Neck
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Clockwork Amulet No Common 100 gp Xanathar's Guide to Everything, Page 137
+Dark Shard Amulet Yes (warlock) Common 75 gp Xanathar's Guide to Everything, Page 137
+Amulet of Proof Against Detection and Location Yes Uncommon 400 gp Dungeon Master's Guide, Page 150
+Brooch of Shielding Yes Uncommon 375 gp Dungeon Master's Guide, Page 156
+Medallion of Thoughts Yes Uncommon 300 gp Dungeon Master's Guide, Page 181
+Necklace of Adaptation Yes Uncommon 450 gp Dungeon Master's Guide, Page 182
+Periapt of Health No Uncommon 250 gp Dungeon Master's Guide, Page 184
+Periapt of Wound Closure Yes Uncommon 375 gp Dungeon Master's Guide, Page 184
+Amulet of Health Yes Rare 4,000 gp Dungeon Master's Guide, Page 150
+Amulet of Protection from Turning Yes Rare 3,600 gp Tales from the Yawning Portal, Page 228
+Necklace of Fireballs No Rare 4,350 gp Dungeon Master's Guide, Page 182
+Necklace of Prayer Beads Yes (cleric/druid/paladin) Rare 5,000 gp Dungeon Master's Guide, Page 182
+Periapt of Proof Against Poison No Rare 4,700 gp Dungeon Master's Guide, Page 184
+Amulet of the Black Skull Yes Very Rare 6,400 gp Tomb of Annihilation, Page 206
+Amulet of the Planes Yes Very Rare 43,000 gp Dungeon Master's Guide, Page 150
+Holy Symbol of Ravenkind Yes (good cleric/paladin) Legendary 51,000 gp Curse of Strahd, Page 222
+Scarab of Protection Yes Legendary 58,000 gp Dungeon Master's Guide, Page 199
+Wondrous Items: Head (cont’d)
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Ioun Stone: Strength Yes Very Rare 8,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Greater Absorption Yes Legendary 60,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Mastery Yes Legendary 60,000 gp Dungeon Master's Guide, Page 176-177
+Ioun Stone: Regeneration Yes Legendary 55,000 gp Dungeon Master's Guide, Page 176-177
+Lost Crown of Besilmer Yes Legendary 23,000 gp Princes of the Apocalypse, Page 223-224
+
+Wondrous Items: Shoulders
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Cloak of Billowing No Common 100 gp Xanathar's Guide to Everything, Page 136
+Cloak of Many Fashions No Common 90 gp Xanathar's Guide to Everything, Page 136
+Cloak of Elvenkind Yes Uncommon 250 gp Dungeon Master's Guide, Page 158
+Cloak of Protection Yes Uncommon 400 gp Dungeon Master's Guide, Page 159
+Cloak of the Manta Ray No Uncommon 350 gp Dungeon Master's Guide, Page 159
+Piwafwi (Cloak of Elvenkind) Yes Uncommon 200 gp Out of the Abyss, Page 222
+Cape of the Mountebank No Rare 3,900 gp Dungeon Master's Guide, Page 157
+Cloak of Displacement Yes Rare 3,600 gp Dungeon Master's Guide, Page 158
+Cloak of the Bat Yes Rare 4,600 gp Dungeon Master's Guide, Page 159
+Hell Hound Cloak Yes Rare 1,700 gp Tales from the Yawning Portal, Page 228
+Ise Rune Cloak Yes Rare 1,200 gp Storm King's Thunder, Page 237
+Mantle of Spell Resistance Yes Rare 4,200 gp Dungeon Master's Guide, Page 180
+Piwafwi of Fire Resistance Yes Rare 1,400 gp Out of the Abyss, Page 222
+Vind Rune Cloak Yes Rare 650 gp Storm King's Thunder, Page 236
+Wings of Flying Yes Rare 3,600 gp Dungeon Master's Guide, Page 214
+Cloak of Arachnida Yes Very Rare 14,000 gp Dungeon Master's Guide, Page 158
+Cloak of Invisibility Yes Legendary 54,000 gp Dungeon Master's Guide, Page 158-159
+
+Wondrous Items: Arms & Wrists
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Bracers of Archery Yes Uncommon 350 gp Dungeon Master's Guide, Page 156
+Bracers of Defense Yes Rare 4,000 gp Dungeon Master's Guide, Page 156
+Bracelet of Rock Magic Yes Very Rare 9,000 gp Tales from the Yawning Portal, Page 228
+
+Wondrous Items: Hands
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Gauntlets of Ogre Power Yes Uncommon 450 gp Dungeon Master's Guide, Page 171
+Gloves of Missile Snaring Yes Uncommon 325 gp Dungeon Master's Guide, Page 172
+Gloves of Swimming and Climbing Yes Uncommon 250 gp Dungeon Master's Guide, Page 172
+Gloves of Thievery No Uncommon 300 gp Dungeon Master's Guide, Page 172
+Claws of the Umber Hulk Yes Rare 4,300 gp Princes of the Apocalypse, Page 222
+
+Wondrous Items: Body
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Clothes of Mending No Common 50 gp Xanathar's Guide to Everything, Page 137
+Robe of Serpents Yes Uncommon 375 gp Storm King's Thunder, Page 236
+Robe of Useful Items No Uncommon 400 gp Dungeon Master's Guide, Page 195
+Wingwear Yes Uncommon 300 gp Princes of the Apocalypse, Page 223
+Robe of Eyes Yes Rare 5,000 gp Dungeon Master's Guide, Page 193-194
+Robe of Summer Yes Rare 2,900 gp Tales from the Yawning Portal, Page 229
+Robe of Scintillating Colors Yes Very Rare 27,000 gp Dungeon Master's Guide, Page 194
+Robe of Stars Yes Very Rare 45,000 gp Dungeon Master's Guide, Page 194
+Robe of the Archmagi Yes Legendary 75,000 gp Dungeon Master's Guide, Page 194
+
+Wondrous Items: Waist
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Belt of Dwarvenkind Yes Rare 5,000 gp Dungeon Master's Guide, Page 155
+Belt of Giant Strength (Hill) Yes Rare 4,000 gp Dungeon Master's Guide, Page 155
+Belt of Giant Strength (Stone/Frost) Yes Very Rare 12,000 gp Dungeon Master's Guide, Page 155
+Belt of Giant Strength (Fire) Yes Very Rare 36,000 gp Dungeon Master's Guide, Page 155
+Belt of Giant Strength (Cloud) Yes Legendary 66,000 gp Dungeon Master's Guide, Page 155
+Belt of Giant Strength (Storm) Yes Legendary 100,000 gp Dungeon Master's Guide, Page 155
+
+Wondrous Items: Feet
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Boots of False Tracks No Common 60 gp Xanathar's Guide to Everything, Page 136
+Boots of Elvenkind No Uncommon 400 gp Dungeon Master's Guide, Page 155
+Boots of Striding and Springing Yes Uncommon 200 gp Dungeon Master's Guide, Page 156
+Boots of the Winterlands Yes Uncommon 300 gp Dungeon Master's Guide, Page 156
+Slippers of Spider Climbing Yes Uncommon 500 gp Dungeon Master's Guide, Page 200
+Stein Rune Boots Yes Uncommon 350 gp Storm King's Thunder, Page 235
+Winged Boots Yes Uncommon 500 gp Dungeon Master's Guide, Page 214
+Boots of Levitation Yes Rare 4,500 gp Dungeon Master's Guide, Page 155
+Boots of Speed Yes Rare 3,000 gp Dungeon Master's Guide, Page 155
+Ise Rune Boots Yes Rare 2,650 gp Storm King's Thunder, Page 237
+Vind Rune Boots Yes Rare 650 gp Storm King's Thunder, Page 236
+
+Wondrous Items: Other & None
+ITEM ATTUNE? RARITY SUGGESTED COST REFERENCE
+Bead of Nourishment No Common 25 gp Xanathar's Guide to Everything, Page 136
+Bead of Refreshment No Common 25 gp Xanathar's Guide to Everything, Page 136
+Candle of the Deep No Common 50 gp Xanathar's Guide to Everything, Page 136
+Charlatan's Die Yes Common 80 gp Xanathar's Guide to Everything, Page 136
+Ear Horn of Hearing No Common 75 gp Xanathar's Guide to Everything, Page 137
+Enduring Spellbook No Common 100 gp Xanathar's Guide to Everything, Page 137
+Heward's Handy Spice Pouch No Common 100 gp Xanathar's Guide to Everything, Page 137
+Horn of Silent Alarm No Common 85 gp Xanathar's Guide to Everything, Page 137
+Instrument of Illusions Yes Common 100 gp Xanathar's Guide to Everything, Page 137
+Instrument of Scribing Yes Common 80 gp Xanathar's Guide to Everything, Page 138
+Lock of Trickery No Common 50 gp Xanathar's Guide to Everything, Page 138
+Mystery Key No Common 50 gp Xanathar's Guide to Everything, Page 138
+Orb of Direction No Common 50 gp Xanathar's Guide to Everything, Page 138
+Orb of Time No Common 50 gp Xanathar's Guide to Everything, Page 138
+Pipe of Smoke Monsters No Common 50 gp Xanathar's Guide to Everything, Page 138
+Pole of Angling No Common 50 gp Xanathar's Guide to Everything, Page 138
+Pole of Collapsing No Common 55 gp Xanathar's Guide to Everything, Page 138
+Pot of Awakening No Common 85 gp Xanathar's Guide to Everything, Page 138
+Rope of Mending No Common 50 gp Xanathar's Guide to Everything, Page 138
+Ruby of the War Mage Yes (spellcaster) Common 100 gp Xanathar's Guide to Everything, Page 138
+Talking Doll Yes Common 75 gp Xanathar's Guide to Everything, Page 139
+Tankard of Sobriety No Common 80 gp Xanathar's Guide to Everything, Page 139
+Alchemy Jug No Uncommon 100 gp Dungeon Master's Guide, Page 150
+Bag of Holding No Uncommon 500 gp Dungeon Master's Guide, Page 153-154
+Bag of Tricks No Uncommon 350 gp Dungeon Master's Guide, Page 154
+Balance of Harmony No Uncommon 200 gp Tales from the Yawning Portal, Page 228
+Balloon Pack No Uncommon 275 gp Princes of the Apocalypse, Page 222
+Broom of Flying No Uncommon 450 gp Dungeon Master's Guide, Page 156
+Decanter of Endless Water No Uncommon 300 gp Dungeon Master's Guide, Page 161
+Deck of Illusions No Uncommon 450 gp Dungeon Master's Guide, Page 161-162
+Driftglobe No Uncommon 100 gp Dungeon Master's Guide, Page 166
+Dust of Disappearance No Uncommon 200 gp Dungeon Master's Guide, Page 166
+Dust of Dryness No Uncommon 350 gp Dungeon Master's Guide, Page 166
+Dust of Sneezing and Choking No Uncommon 150 gp Dungeon Master's Guide, Page 166
+Elemental Gem No Uncommon 250 gp Dungeon Master's Guide, Page 168
+Eversmoking Bottle No Uncommon 270 gp Dungeon Master's Guide, Page 168
+Figurine of Wondrous Power (Silver Raven) No Uncommon 380 gp Dungeon Master's Guide, Page 170
+Gem of Brightness No Uncommon 250 gp Dungeon Master's Guide, Page 171
+Insignia of Claws No Uncommon 450 gp Hoard of the Dragon Queen, Page 94
+Instrument of the Bards (Doss Lute) Yes (bard) Uncommon 250 gp Dungeon Master's Guide, Page 176
+Instrument of the Bards (Fochlucan Bandore) Yes (bard) Uncommon 350 gp Dungeon Master's Guide, Page 176
+Instrument of the Bards (Mac-Fuimidh Cittern) Yes (bard) Uncommon 450 gp Dungeon Master's Guide, Page 176
+Keoghtom's Ointment No Uncommon 400 gp Dungeon Master's Guide, Page 179
+Lantern of Revealing No Uncommon 500 gp Dungeon Master's Guide, Page 179
+Night Caller No Uncommon 350 gp Tales from the Yawning Portal, Page 228
+Pearl of Power Yes (spellcaster) Uncommon 400 gp Dungeon Master's Guide, Page 184
+Pipes of Haunting No Uncommon 300 gp Dungeon Master's Guide, Page 185
+Pipes of the Sewers Yes Uncommon 150 gp Dungeon Master's Guide, Page 185
+Quiver of Ehlonna No Uncommon 250 gp Dungeon Master's Guide, Page 189
+Rope of Climbing No Uncommon 350 gp Dungeon Master's Guide, Page 197
+Saddle of the Cavalier No Uncommon 250 gp Dungeon Master's Guide, Page 199
+Sending Stones No Uncommon 500 gp Dungeon Master's Guide, Page 199
+Stone of Good Luck Yes Uncommon 400 gp Dungeon Master's Guide, Page 205
+Stone of Ill Luck Yes Uncommon 400 gp Tales from the Yawning Portal, Page 229
+Wind Fan No Uncommon 150 gp Dungeon Master's Guide, Page 213
+Bag of Beans No Rare 4,200 gp Dungeon Master's Guide, Page 152
+Banner of the Krig Rune Yes Rare 4,400 gp Storm King's Thunder, Page 233
+Bead of Force No Rare 3,000 gp Dungeon Master's Guide, Page 154
+Blod Stone Yes Rare 6,500 gp Storm King's Thunder, Page 233
+Bowl of Commanding Water Elementals No Rare 4,700 gp Dungeon Master's Guide, Page 156
+Brazier of Commanding Fire Elementals No Rare 4,700 gp Dungeon Master's Guide, Page 156
+Censer of Controlling Air Elementals No Rare 4,700 gp Dungeon Master's Guide, Page 158
+Chime of Opening No Rare 3,000 gp Dungeon Master's Guide, Page 158
+Claw of the Wyrm Rune Yes Rare 4,400 gp Storm King's Thunder, Page 233
+Cube of Force Yes Rare 5,000 gp Dungeon Master's Guide, Page 159-160
+Daern's Instant Fortress No Rare 5,000 gp Dungeon Master's Guide, Page 160-161
+Dimensional Shackles No Rare 2,800 gp Dungeon Master's Guide, Page 165
+Eagle Whistle No Rare 600 gp Tales from the Yawning Portal, Page 228
+Figurine of Wondrous Power (Bronze Griffon) No Rare 3,600 gp Dungeon Master's Guide, Page 169
+Figurine of Wondrous Power (Ebony Fly) No Rare 3,600 gp Dungeon Master's Guide, Page 169
+Figurine of Wondrous Power (Golden Lions) No Rare 5,000 gp Dungeon Master's Guide, Page 169
+Figurine of Wondrous Power (Ivory Goats) No Rare 5,000 gp Dungeon Master's Guide, Page 169
+Figurine of Wondrous Power (Marble Elephant) No Rare 5,000 gp Dungeon Master's Guide, Page 170
+Figurine of Wondrous Power (Onyx Dog) No Rare 3,200 gp Dungeon Master's Guide, Page 170
+Figurine of Wondrous Power (Serpentine Owl) No Rare 3,000 gp Dungeon Master's Guide, Page 170
+Folding Boat No Rare 4,750 gp Dungeon Master's Guide, Page 170-171
+Gavel of the Venn Rune Yes Rare 2,800 gp Storm King's Thunder, Page 234
+Gem of Seeing Yes Rare 5,000 gp Dungeon Master's Guide, Page 172
+Ghost Lantern Yes Rare 1,750 gp Tomb of Annihilation, Page 206
+Heward's Handy Haversack No Rare 2,000 gp Dungeon Master's Guide, Page 174
+Horn of Blasting No Rare 2,500 gp Dungeon Master's Guide, Page 174-175
+Horn of Valhalla (Silver/Brass) No Rare 5,000 gp Dungeon Master's Guide, Page 175
+Horseshoes of Speed No Rare 3,000 gp Dungeon Master's Guide, Page 175
+Instrument of the Bards (Canaith Mandolin) Yes (bard) Rare 3,750 gp Dungeon Master's Guide, Page 176
+Instrument of the Bards (Cli Lyre) Yes (bard) Rare 4,250 gp Dungeon Master's Guide, Page 176
+Iron Bands of Bilarro No Rare 2,600 gp Dungeon Master's Guide, Page 177
+Loadstone No Rare 150 gp Tales from the Yawning Portal, Page 228
+Mirror of the Past No Rare 3,800 gp Tales from the Yawning Portal, Page 228
+Opal of the Ild Rune Yes Rare 3,500 gp Storm King's Thunder, Page 235
+Orb of the Stein Rune Yes Rare 2,700 gp Storm King's Thunder, Page 235
+Portable Hole No Rare 5,000 gp Dungeon Master's Guide, Page 185-187
+Quaal's Feather Token No Rare 1,000 gp Dungeon Master's Guide, Page 188-189
+Rope of Entanglement No Rare 1,000 gp Dungeon Master's Guide, Page 197-199
+Stone of Controlling Earth Elementals No Rare 4,700 gp Dungeon Master's Guide, Page 205
+Stonespeaker Crystal Yes Rare 4,600 gp Out of the Abyss, Page 223
+Weird Tank Yes Rare 2,200 gp Princes of the Apocalypse, Page 223
+Bag of Devouring No Very Rare 12,000 gp Dungeon Master's Guide, Page 153
+Candle of Invocation Yes Very Rare 8,400 gp Dungeon Master's Guide, Page 157
+Carpet of Flying No Very Rare 44,000 gp Dungeon Master's Guide, Page 157
+Conch of Teleportation Yes Very Rare 1,850 gp Storm King's Thunder, Page 234
+Crystal Ball Yes Very Rare 42,000 gp Dungeon Master's Guide, Page 159
+Devastation Orb (Air) No Very Rare 8,000 gp Princes of the Apocalypse, Page 222
+Devastation Orb (Earth) No Very Rare 11,000 gp Princes of the Apocalypse, Page 222
+Devastation Orb (Fire) No Very Rare 9,500 gp Princes of the Apocalypse, Page 222
+Devastation Orb (Water) No Very Rare 9,500 gp Princes of the Apocalypse, Page 223
+Efreeti Bottle No Very Rare 45,000 gp Dungeon Master's Guide, Page 167
+Figurine of Wondrous Power (Obsidian Steed) No Very Rare 28,500 gp Dungeon Master's Guide, Page 170
+Horn of Valhalla (Bronze) No Very Rare 20,000 gp Dungeon Master's Guide, Page 175
+Horseshoes of a Zephyr No Very Rare 6,000 gp Dungeon Master's Guide, Page 175
+Ingot of the Skold Rune Yes Very Rare 15,000 gp Storm King's Thunder, Page 234
+Instrument of the Bards (Anstruth Harp) Yes (bard) Very Rare 17,500 gp Dungeon Master's Guide, Page 176
+Manual of Bodily Health No Very Rare 36,000 gp Dungeon Master's Guide, Page 180
+Manual of Gainful Exercise No Very Rare 36,000 gp Dungeon Master's Guide, Page 180
+Manual of Golems No Very Rare 22,000 gp Dungeon Master's Guide, Page 180-181
+Manual of Quickness of Action No Very Rare 36,000 gp Dungeon Master's Guide, Page 181
+Mirror of Life Trapping No Very Rare 50,000 gp Dungeon Master's Guide, Page 181-182
+Navigation Orb Yes Very Rare 27,000 gp Storm King's Thunder, Page 235
+Nolzur's Marvelous Pigments No Very Rare 16,000 gp Dungeon Master's Guide, Page 183
+Pennant of the Vind Rune Yes Very Rare 13,000 gp Storm King's Thunder, Page 235-236
+Shard of the Ise Rune Yes Very Rare 9,000 gp Storm King's Thunder, Page 236
+Tome of Clear Thought No Very Rare 36,000 gp Dungeon Master's Guide, Page 208
+Tome of Leadership and Influence No Very Rare 36,000 gp Dungeon Master's Guide, Page 208
+Tome of Understanding No Very Rare 36,000 gp Dungeon Master's Guide, Page 209
+Apparatus of Kwalish No Legendary 90,000 gp Dungeon Master's Guide, Page 151
+Crystal Ball of Mind Reading Yes Legendary 51,000 gp Dungeon Master's Guide, Page 159
+Crystal Ball of Telepathy Yes Legendary 70,000 gp Dungeon Master's Guide, Page 159
+Crystal Ball of True Seeing Yes Legendary 80,000 gp Dungeon Master's Guide, Page 159
+Cubic Gate No Legendary 164,000 gp Dungeon Master's Guide, Page 160
+Deck of Many Things No Legendary 200,000 gp Dungeon Master's Guide, Page 162-164
+Horn of Valhalla (Iron) No Legendary 50,000 gp Dungeon Master's Guide, Page 175
+Icon of Ravenloft Yes (good) Legendary 50,500 gp Curse of Strahd, Page 222
+Instrument of the Bards (Ollamh Harp) Yes (bard) Legendary 51,000 gp Dungeon Master's Guide, Page 176
+Iron Flask No Legendary 170,000 gp Dungeon Master's Guide, Page 178
+Sovereign Glue No Legendary 5,000 gp Dungeon Master's Guide, Page 200
+Sphere of Annihilation No Legendary 200,000 gp Dungeon Master's Guide, Page 201
+Talisman of Pure Good Yes (good) Legendary 125,000 gp Dungeon Master's Guide, Page 207
+Talisman of the Sphere Yes Legendary 75,000 gp Dungeon Master's Guide, Page 207
+Talisman of Ultimate Evil Yes (evil) Legendary 125,000 gp Dungeon Master's Guide, Page 207
+Tome of the Stilled Tongue Yes (wizard) Legendary 60,000 gp Dungeon Master's Guide, Page 208
+Universal Solvent No Legendary 5,000 gp Dungeon Master's Guide, Page 209
+Well of Many Worlds No Legendary 90,000 gp Dungeon Master's Guide, Page 213
