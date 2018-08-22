@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Arms",
         "name": "Bracers of Archery",
         "attune": true,
         "rarity": "Uncommon",
@@ -14,6 +15,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Arms",
         "name": "Bracers of Defense",
         "attune": true,
         "rarity": "Rare",
@@ -27,6 +29,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Arms",
         "name": "Bracelet of Rock Magic",
         "attune": true,
         "rarity": "Very Rare",

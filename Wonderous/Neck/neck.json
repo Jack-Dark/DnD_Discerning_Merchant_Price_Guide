@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Clockwork Amulet",
         "attune": false,
         "prerequisites": null,
@@ -15,6 +16,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Dark Shard Amulet",
         "attune": true,
         "prerequisites": "Warlock",
@@ -29,6 +31,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Amulet of Proof Against Detection and Location",
         "attune": true,
         "prerequisites": null,
@@ -43,6 +46,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Brooch of Shielding",
         "attune": true,
         "prerequisites": null,
@@ -57,6 +61,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Medallion of Thoughts",
         "attune": true,
         "prerequisites": null,
@@ -71,6 +76,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Necklace of Adaptation",
         "attune": true,
         "prerequisites": null,
@@ -85,6 +91,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Periapt of Health",
         "attune": false,
         "prerequisites": null,
@@ -99,6 +106,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Periapt of Wound Closure",
         "attune": true,
         "prerequisites": null,
@@ -113,6 +121,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Amulet of Health",
         "attune": true,
         "prerequisites": null,
@@ -127,6 +136,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Amulet of Protection from Turning",
         "attune": true,
         "prerequisites": null,
@@ -141,6 +151,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Necklace of Fireballs",
         "attune": false,
         "prerequisites": null,
@@ -155,6 +166,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Necklace of Prayer Beads",
         "attune": true,
         "prerequisites": "(cleric/druid/paladin)",
@@ -169,6 +181,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Periapt of Proof Against Poison",
         "attune": false,
         "prerequisites": null,
@@ -183,6 +196,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Amulet of the Black Skull",
         "attune": true,
         "prerequisites": null,
@@ -197,6 +211,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Amulet of the Planes",
         "attune": true,
         "prerequisites": null,
@@ -211,6 +226,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Holy Symbol of Ravenkind",
         "attune": true,
         "prerequisites": [
@@ -228,6 +244,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Neck",
         "name": "Scarab of Protection",
         "attune": true,
         "prerequisites": null,

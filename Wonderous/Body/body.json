@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Clothes of Mending",
         "attunement": false,
         "rarity": "Common",
@@ -14,6 +15,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Robe of Serpents",
         "attunement": true,
         "rarity": "Uncommon",
@@ -27,6 +29,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Robe of Useful Items",
         "attunement": false,
         "rarity": "Uncommon",
@@ -40,6 +43,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Wingwear",
         "attunement": true,
         "rarity": "Uncommon",
@@ -53,6 +57,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Robe of Eyes",
         "attunement": true,
         "rarity": "Rare",
@@ -66,6 +71,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Robe of Summer",
         "attunement": true,
         "rarity": "Rare",
@@ -79,6 +85,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Robe of Scintillating Colors",
         "attunement": true,
         "rarity": "Very Rare",
@@ -92,6 +99,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Robe of Stars",
         "attunement": true,
         "rarity": "Very Rare",
@@ -105,6 +113,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Body",
         "name": "Robe of the Archmagi",
         "attunement": true,
         "rarity": "Legendary",

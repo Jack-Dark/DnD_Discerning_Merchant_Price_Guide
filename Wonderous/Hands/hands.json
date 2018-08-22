@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Hands",
         "name": "Gauntlets of Ogre Power",
         "attune": true,
         "rarity": "Uncommon",
@@ -14,6 +15,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Hands",
         "name": "Gloves of Missile Snaring",
         "attune": true,
         "rarity": "Uncommon",
@@ -27,6 +29,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Hands",
         "name": "Gloves of Swimming and Climbing",
         "attune": true,
         "rarity": "Uncommon",
@@ -40,6 +43,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Hands",
         "name": "Gloves of Thievery",
         "attune": false,
         "rarity": "Uncommon",
@@ -53,6 +57,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Hands",
         "name": "Claws of the Umber Hulk",
         "attune": true,
         "rarity": "Rare",

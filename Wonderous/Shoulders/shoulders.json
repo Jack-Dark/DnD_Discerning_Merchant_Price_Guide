@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of Billowing",
         "attune": false,
         "rarity": "Common",
@@ -14,6 +15,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of Many Fashions",
         "attune": false,
         "rarity": "Common",
@@ -27,6 +29,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of Elvenkind",
         "attune": true,
         "rarity": "Uncommon",
@@ -40,6 +43,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of Protection",
         "attune": true,
         "rarity": "Uncommon",
@@ -53,6 +57,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of the Manta Ray",
         "attune": false,
         "rarity": "Uncommon",
@@ -66,6 +71,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Piwafwi (Cloak of Elvenkind)",
         "attune": true,
         "rarity": "Uncommon",
@@ -79,6 +85,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cape of the Mountebank",
         "attune": false,
         "rarity": "Rare",
@@ -92,6 +99,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of Displacement",
         "attune": true,
         "rarity": "Rare",
@@ -105,6 +113,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of the Bat",
         "attune": true,
         "rarity": "Rare",
@@ -118,6 +127,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Hell Hound Cloak",
         "attune": true,
         "rarity": "Rare",
@@ -131,6 +141,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Ise Rune Cloak",
         "attune": true,
         "rarity": "Rare",
@@ -144,6 +155,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Mantle of Spell Resistance",
         "attune": true,
         "rarity": "Rare",
@@ -157,6 +169,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Piwafwi of Fire Resistance",
         "attune": true,
         "rarity": "Rare",
@@ -170,6 +183,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Vind Rune Cloak",
         "attune": true,
         "rarity": "Rare",
@@ -183,6 +197,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Wings of Flying",
         "attune": true,
         "rarity": "Rare",
@@ -196,6 +211,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of Arachnida",
         "attune": true,
         "rarity": "Very Rare",
@@ -209,6 +225,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Shoulders",
         "name": "Cloak of Invisibility",
         "attune": true,
         "rarity": "Legendary",

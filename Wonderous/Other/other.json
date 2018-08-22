@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Bead of Nourishment",
         "attune": false,
         "prerequisites": null,
@@ -15,6 +16,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Bead of Refreshment",
         "attune": false,
         "prerequisites": null,
@@ -29,6 +31,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Candle of the Deep",
         "attune": false,
         "prerequisites": null,
@@ -43,6 +46,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Charlatan's Die",
         "attune": true,
         "prerequisites": null,
@@ -57,6 +61,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Ear Horn of Hearing",
         "attune": false,
         "prerequisites": null,
@@ -71,6 +76,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Enduring Spellbook",
         "attune": false,
         "prerequisites": null,
@@ -85,6 +91,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Heward's Handy Spice Pouch",
         "attune": false,
         "prerequisites": null,
@@ -99,6 +106,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Horn of Silent Alarm",
         "attune": false,
         "prerequisites": null,
@@ -113,6 +121,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of Illusions",
         "attune": true,
         "prerequisites": null,
@@ -127,6 +136,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of Scribing",
         "attune": true,
         "prerequisites": null,
@@ -141,6 +151,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Lock of Trickery",
         "attune": false,
         "prerequisites": null,
@@ -155,6 +166,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Mystery Key",
         "attune": false,
         "prerequisites": null,
@@ -169,6 +181,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Orb of Direction",
         "attune": false,
         "prerequisites": null,
@@ -183,6 +196,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Orb of Time",
         "attune": false,
         "prerequisites": null,
@@ -197,6 +211,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Pipe of Smoke Monsters",
         "attune": false,
         "prerequisites": null,
@@ -211,6 +226,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Pole of Angling",
         "attune": false,
         "prerequisites": null,
@@ -225,6 +241,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Pole of Collapsing",
         "attune": false,
         "prerequisites": null,
@@ -239,6 +256,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Pot of Awakening",
         "attune": false,
         "prerequisites": null,
@@ -253,6 +271,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Rope of Mending",
         "attune": false,
         "prerequisites": null,
@@ -267,6 +286,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Ruby of the War Mage",
         "attune": true,
         "prerequisites": "Spellcaster",
@@ -281,6 +301,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Talking Doll",
         "attune": true,
         "prerequisites": null,
@@ -295,6 +316,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Tankard of Sobriety",
         "attune": false,
         "prerequisites": null,
@@ -309,6 +331,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Alchemy Jug",
         "attune": false,
         "prerequisites": null,
@@ -323,6 +346,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Bag of Holding",
         "attune": false,
         "prerequisites": null,
@@ -337,6 +361,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Bag of Tricks",
         "attune": false,
         "prerequisites": null,
@@ -351,6 +376,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Balance of Harmony",
         "attune": false,
         "prerequisites": null,
@@ -365,6 +391,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Balloon Pack",
         "attune": false,
         "prerequisites": null,
@@ -379,6 +406,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Broom of Flying",
         "attune": false,
         "prerequisites": null,
@@ -393,6 +421,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Decanter of Endless Water",
         "attune": false,
         "prerequisites": null,
@@ -407,6 +436,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Deck of Illusions",
         "attune": false,
         "prerequisites": null,
@@ -421,6 +451,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Driftglobe",
         "attune": false,
         "prerequisites": null,
@@ -435,6 +466,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Dust of Disappearance",
         "attune": false,
         "prerequisites": null,
@@ -449,6 +481,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Dust of Dryness",
         "attune": false,
         "prerequisites": null,
@@ -463,6 +496,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Dust of Sneezing and Choking",
         "attune": false,
         "prerequisites": null,
@@ -477,6 +511,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Elemental Gem",
         "attune": false,
         "prerequisites": null,
@@ -491,6 +526,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Eversmoking Bottle",
         "attune": false,
         "prerequisites": null,
@@ -505,6 +541,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Silver Raven)",
         "attune": false,
         "prerequisites": null,
@@ -519,6 +556,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Gem of Brightness",
         "attune": false,
         "prerequisites": null,
@@ -533,6 +571,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Insignia of Claws",
         "attune": false,
         "prerequisites": null,
@@ -547,6 +586,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of the Bards (Doss Lute)",
         "attune": true,
         "prerequisites": "Bard",
@@ -561,6 +601,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of the Bards (Fochlucan Bandore)",
         "attune": true,
         "prerequisites": "Bard",
@@ -575,6 +616,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of the Bards (Mac-Fuimidh Cittern)",
         "attune": true,
         "prerequisites": "Bard",
@@ -589,6 +631,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Keoghtom's Ointment",
         "attune": false,
         "prerequisites": null,
@@ -603,6 +646,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Lantern of Revealing",
         "attune": false,
         "prerequisites": null,
@@ -617,6 +661,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Night Caller",
         "attune": false,
         "prerequisites": null,
@@ -631,6 +676,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Pearl of Power",
         "attune": true,
         "prerequisites": "Spellcaster",
@@ -645,6 +691,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Pipes of Haunting",
         "attune": false,
         "prerequisites": null,
@@ -659,6 +706,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Pipes of the Sewers",
         "attune": true,
         "prerequisites": null,
@@ -673,6 +721,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Quiver of Ehlonna",
         "attune": false,
         "prerequisites": null,
@@ -687,6 +736,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Rope of Climbing",
         "attune": false,
         "prerequisites": null,
@@ -701,6 +751,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Saddle of the Cavalier",
         "attune": false,
         "prerequisites": null,
@@ -715,6 +766,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Sending Stones",
         "attune": false,
         "prerequisites": null,
@@ -729,6 +781,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Stone of Good Luck",
         "attune": true,
         "prerequisites": null,
@@ -743,6 +796,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Stone of Ill Luck",
         "attune": true,
         "prerequisites": null,
@@ -757,6 +811,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Wind Fan",
         "attune": false,
         "prerequisites": null,
@@ -771,6 +826,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Bag of Beans",
         "attune": false,
         "prerequisites": null,
@@ -785,6 +841,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Banner of the Krig Rune",
         "attune": true,
         "prerequisites": null,
@@ -799,6 +856,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Bead of Force",
         "attune": false,
         "prerequisites": null,
@@ -813,6 +871,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Blod Stone",
         "attune": true,
         "prerequisites": null,
@@ -827,6 +886,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Bowl of Commanding Water Elementals",
         "attune": false,
         "prerequisites": null,
@@ -841,6 +901,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Brazier of Commanding Fire Elementals",
         "attune": false,
         "prerequisites": null,
@@ -855,6 +916,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Censer of Controlling Air Elementals",
         "attune": false,
         "prerequisites": null,
@@ -869,6 +931,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Chime of Opening",
         "attune": false,
         "prerequisites": null,
@@ -883,6 +946,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Claw of the Wyrm Rune",
         "attune": true,
         "prerequisites": null,
@@ -897,6 +961,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Cube of Force",
         "attune": true,
         "prerequisites": null,
@@ -911,6 +976,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Daern's Instant Fortress",
         "attune": false,
         "prerequisites": null,
@@ -925,6 +991,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Dimensional Shackles",
         "attune": false,
         "prerequisites": null,
@@ -939,6 +1006,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Eagle Whistle",
         "attune": false,
         "prerequisites": null,
@@ -953,6 +1021,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Bronze Griffon)",
         "attune": false,
         "prerequisites": null,
@@ -967,6 +1036,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Ebony Fly)",
         "attune": false,
         "prerequisites": null,
@@ -981,6 +1051,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Golden Lions)",
         "attune": false,
         "prerequisites": null,
@@ -995,6 +1066,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Ivory Goats)",
         "attune": false,
         "prerequisites": null,
@@ -1009,6 +1081,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Marble Elephant)",
         "attune": false,
         "prerequisites": null,
@@ -1023,6 +1096,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Onyx Dog)",
         "attune": false,
         "prerequisites": null,
@@ -1037,6 +1111,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Serpentine Owl)",
         "attune": false,
         "prerequisites": null,
@@ -1051,6 +1126,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Folding Boat",
         "attune": false,
         "prerequisites": null,
@@ -1065,6 +1141,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Gavel of the Venn Rune",
         "attune": true,
         "prerequisites": null,
@@ -1079,6 +1156,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Gem of Seeing",
         "attune": true,
         "prerequisites": null,
@@ -1093,6 +1171,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Ghost Lantern",
         "attune": true,
         "prerequisites": null,
@@ -1107,6 +1186,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Heward's Handy Haversack",
         "attune": false,
         "prerequisites": null,
@@ -1121,6 +1201,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Horn of Blasting",
         "attune": false,
         "prerequisites": null,
@@ -1135,6 +1216,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Horn of Valhalla (Silver/Brass)",
         "attune": false,
         "prerequisites": null,
@@ -1149,6 +1231,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Horseshoes of Speed",
         "attune": false,
         "prerequisites": null,
@@ -1163,6 +1246,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of the Bards (Canaith Mandolin)",
         "attune": true,
         "prerequisites": "Bard",
@@ -1177,6 +1261,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of the Bards (Cli Lyre)",
         "attune": true,
         "prerequisites": "Bard",
@@ -1191,6 +1276,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Iron Bands of Bilarro",
         "attune": false,
         "prerequisites": null,
@@ -1205,6 +1291,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Loadstone",
         "attune": false,
         "prerequisites": null,
@@ -1219,6 +1306,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Mirror of the Past",
         "attune": false,
         "prerequisites": null,
@@ -1233,6 +1321,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Opal of the Ild Rune",
         "attune": true,
         "prerequisites": null,
@@ -1247,6 +1336,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Orb of the Stein Rune",
         "attune": true,
         "prerequisites": null,
@@ -1261,6 +1351,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Portable Hole",
         "attune": false,
         "prerequisites": null,
@@ -1275,6 +1366,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Quaal's Feather Token",
         "attune": false,
         "prerequisites": null,
@@ -1289,6 +1381,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Rope of Entanglement",
         "attune": false,
         "prerequisites": null,
@@ -1303,6 +1396,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Stone of Controlling Earth Elementals",
         "attune": false,
         "prerequisites": null,
@@ -1317,6 +1411,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Stonespeaker Crystal",
         "attune": true,
         "prerequisites": null,
@@ -1331,6 +1426,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Weird Tank",
         "attune": true,
         "prerequisites": null,
@@ -1345,6 +1441,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Bag of Devouring",
         "attune": false,
         "prerequisites": null,
@@ -1359,6 +1456,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Candle of Invocation",
         "attune": true,
         "prerequisites": null,
@@ -1373,6 +1471,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Carpet of Flying",
         "attune": false,
         "prerequisites": null,
@@ -1387,6 +1486,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Conch of Teleportation",
         "attune": true,
         "prerequisites": null,
@@ -1401,6 +1501,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Crystal Ball",
         "attune": true,
         "prerequisites": null,
@@ -1415,6 +1516,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Devastation Orb (Air)",
         "attune": false,
         "prerequisites": null,
@@ -1429,6 +1531,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Devastation Orb (Earth)",
         "attune": false,
         "prerequisites": null,
@@ -1443,6 +1546,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Devastation Orb (Fire)",
         "attune": false,
         "prerequisites": null,
@@ -1457,6 +1561,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Devastation Orb (Water)",
         "attune": false,
         "prerequisites": null,
@@ -1471,6 +1576,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Efreeti Bottle",
         "attune": false,
         "prerequisites": null,
@@ -1485,6 +1591,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Figurine of Wondrous Power (Obsidian Steed)",
         "attune": false,
         "prerequisites": null,
@@ -1499,6 +1606,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Horn of Valhalla (Bronze)",
         "attune": false,
         "prerequisites": null,
@@ -1513,6 +1621,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Horseshoes of a Zephyr",
         "attune": false,
         "prerequisites": null,
@@ -1527,6 +1636,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Ingot of the Skold Rune",
         "attune": true,
         "prerequisites": null,
@@ -1541,6 +1651,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of the Bards (Anstruth Harp)",
         "attune": true,
         "prerequisites": "Bard",
@@ -1555,6 +1666,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Manual of Bodily Health",
         "attune": false,
         "prerequisites": null,
@@ -1569,6 +1681,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Manual of Gainful Exercise",
         "attune": false,
         "prerequisites": null,
@@ -1583,6 +1696,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Manual of Golems",
         "attune": false,
         "prerequisites": null,
@@ -1597,6 +1711,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Manual of Quickness of Action",
         "attune": false,
         "prerequisites": null,
@@ -1611,6 +1726,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Mirror of Life Trapping",
         "attune": false,
         "prerequisites": null,
@@ -1625,6 +1741,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Navigation Orb",
         "attune": true,
         "prerequisites": null,
@@ -1639,6 +1756,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Nolzur's Marvelous Pigments",
         "attune": false,
         "prerequisites": null,
@@ -1653,6 +1771,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Pennant of the Vind Rune",
         "attune": true,
         "prerequisites": null,
@@ -1667,6 +1786,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Shard of the Ise Rune",
         "attune": true,
         "prerequisites": null,
@@ -1681,6 +1801,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Tome of Clear Thought",
         "attune": false,
         "prerequisites": null,
@@ -1695,6 +1816,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Tome of Leadership and Influence",
         "attune": false,
         "prerequisites": null,
@@ -1709,6 +1831,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Tome of Understanding",
         "attune": false,
         "prerequisites": null,
@@ -1723,6 +1846,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Apparatus of Kwalish",
         "attune": false,
         "prerequisites": null,
@@ -1737,6 +1861,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Crystal Ball of Mind Reading",
         "attune": true,
         "prerequisites": null,
@@ -1751,6 +1876,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Crystal Ball of Telepathy",
         "attune": true,
         "prerequisites": null,
@@ -1765,6 +1891,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Crystal Ball of True Seeing",
         "attune": true,
         "prerequisites": null,
@@ -1779,6 +1906,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Cubic Gate",
         "attune": false,
         "prerequisites": null,
@@ -1793,6 +1921,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Deck of Many Things",
         "attune": false,
         "prerequisites": null,
@@ -1807,6 +1936,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Horn of Valhalla (Iron)",
         "attune": false,
         "prerequisites": null,
@@ -1821,6 +1951,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Icon of Ravenloft",
         "attune": true,
         "prerequisites": "Good alignment",
@@ -1835,6 +1966,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Instrument of the Bards (Ollamh Harp)",
         "attune": true,
         "prerequisites": "Bard",
@@ -1849,6 +1981,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Iron Flask",
         "attune": false,
         "prerequisites": null,
@@ -1863,6 +1996,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Sovereign Glue",
         "attune": false,
         "prerequisites": null,
@@ -1877,6 +2011,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Sphere of Annihilation",
         "attune": false,
         "prerequisites": null,
@@ -1891,6 +2026,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Talisman of Pure Good",
         "attune": true,
         "prerequisites": "Good alignment",
@@ -1905,6 +2041,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Talisman of the Sphere",
         "attune": true,
         "prerequisites": null,
@@ -1919,6 +2056,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Talisman of Ultimate Evil",
         "attune": true,
         "prerequisites": "Evil alignment",
@@ -1933,6 +2071,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Tome of the Stilled Tongue",
         "attune": true,
         "prerequisites": "Wizard",
@@ -1947,6 +2086,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Universal Solvent",
         "attune": false,
         "prerequisites": null,
@@ -1961,6 +2101,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Other",
         "name": "Well of Many Worlds",
         "attune": false,
         "prerequisites": null,

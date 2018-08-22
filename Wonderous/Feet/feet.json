@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Boots of False Tracks",
         "attune": false,
         "rarity": "Common",
@@ -14,6 +15,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Boots of Elvenkind",
         "attune": false,
         "rarity": "Uncommon",
@@ -27,6 +29,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Boots of Striding and Springing",
         "attune": true,
         "rarity": "Uncommon",
@@ -40,6 +43,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Boots of the Winterlands",
         "attune": true,
         "rarity": "Uncommon",
@@ -53,6 +57,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Slippers of Spider Climbing",
         "attune": true,
         "rarity": "Uncommon",
@@ -66,6 +71,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Stein Rune Boots",
         "attune": true,
         "rarity": "Uncommon",
@@ -79,6 +85,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Winged Boots",
         "attune": true,
         "rarity": "Uncommon",
@@ -92,6 +99,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Boots of Levitation",
         "attune": true,
         "rarity": "Rare",
@@ -105,6 +113,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Boots of Speed",
         "attune": true,
         "rarity": "Rare",
@@ -118,6 +127,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Ise Rune Boots",
         "attune": true,
         "rarity": "Rare",
@@ -131,6 +141,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Feet",
         "name": "Vind Rune Boots",
         "attune": true,
         "rarity": "Rare",

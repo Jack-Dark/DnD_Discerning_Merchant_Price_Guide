@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Eyes",
         "name": "Ersatz Eye",
         "attune": true,
         "rarity": "Common",
@@ -14,6 +15,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Eyes",
         "name": "Eyes of Charming",
         "attune": true,
         "rarity": "Uncommon",
@@ -27,6 +29,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Eyes",
         "name": "Eyes of Minute Seeing",
         "attune": false,
         "rarity": "Uncommon",
@@ -40,6 +43,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Eyes",
         "name": "Eyes of the Eagle",
         "attune": true,
         "rarity": "Uncommon",
@@ -53,6 +57,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Eyes",
         "name": "Goggles of Night",
         "attune": false,
         "rarity": "Uncommon",
@@ -66,6 +71,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Eyes",
         "name": "Mast of the Beast",
         "attune": false,
         "rarity": "Uncommon",
@@ -79,6 +85,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Eyes",
         "name": "Black Dragon Mask",
         "attune": true,
         "rarity": "Legendary",

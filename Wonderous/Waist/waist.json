@@ -1,6 +1,7 @@
 [
     {
         "type": "Wonderous",
+        "adorn": "Waist",
         "name": "Belt of Dwarvenkind",
         "attune": true,
         "rarity": "Rare",
@@ -14,6 +15,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Waist",
         "name": "Belt of Giant Strength (Hill)",
         "attune": true,
         "rarity": "Rare",
@@ -27,6 +29,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Waist",
         "name": "Belt of Giant Strength (Stone/Frost)",
         "attune": true,
         "rarity": "Very Rare",
@@ -40,6 +43,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Waist",
         "name": "Belt of Giant Strength (Fire)",
         "attune": true,
         "rarity": "Very Rare",
@@ -53,6 +57,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Waist",
         "name": "Belt of Giant Strength (Cloud)",
         "attune": true,
         "rarity": "Legendary",
@@ -66,6 +71,7 @@
     },
     {
         "type": "Wonderous",
+        "adorn": "Waist",
         "name": "Belt of Giant Strength (Storm)",
         "attune": true,
         "rarity": "Legendary",
