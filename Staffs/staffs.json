@@ -1,0 +1,223 @@
+[
+	{
+		"type": "Staff",
+		"name": "Staff of Adornment",
+		"attune":  false,
+		"rarity": "Common",
+		"cost": "50",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "139"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Birdcalls",
+		"attune":  false,
+		"rarity": "Common",
+		"cost": "70",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "139"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Flowers",
+		"attune":  false,
+		"rarity": "Common",
+		"cost": "50",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "139"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of the Adder ",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "350",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "203"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of the Python ",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "250",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "204"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Gulthias Staff ",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "2200",
+		"reference": [
+			{
+				"book": "Curse of Strahd",
+				"page": "221"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Charming ",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "3750",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "201"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Healing ",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4800",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "202"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Swarming Insects ",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "203"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of the Woodlands ",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "204"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Withering ",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "2100",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "205"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Fire ",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "18000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "201"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Frost ",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "18000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "202"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Power ",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "46000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "202"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Striking ",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "36000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "203"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of Thunder and Lightning ",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "30000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "204-205"
+			}
+		]
+	},
+	{
+		"type": "Staff",
+		"name": "Staff of the Magi ",
+		"attune": true,
+		"rarity": "Legendary",
+		"cost": "98000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "203"
+			}
+		]
+	}
+]

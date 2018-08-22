@@ -1,0 +1,145 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Boots of False Tracks",
+        "attune": false,
+        "rarity": "Common",
+        "cost": "60",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "136"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Boots of Elvenkind",
+        "attune": false,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Boots of Striding and Springing",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "200",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "156"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Boots of the Winterlands",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "300",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "156"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Slippers of Spider Climbing",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "200"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Stein Rune Boots",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "350",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "235"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Winged Boots",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "214"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Boots of Levitation",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "4500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Boots of Speed",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "3000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Ise Rune Boots",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "2650",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "237"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Vind Rune Boots",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "650",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "236"
+            }
+        ]
+    }
+]

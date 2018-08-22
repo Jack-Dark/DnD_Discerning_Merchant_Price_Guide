@@ -1,0 +1,288 @@
+[
+	{
+		"type": "Ring",
+		"name": "Ring of Jumping",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "250",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "191"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Mind Shielding",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "450",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "191"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Swimming",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "300",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "193"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Warmth",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "480",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "193"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Water Walking",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "193"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Animal Influence",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "1000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "189"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Evasion",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4900",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "191"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Feather Falling",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "2200",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "191"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Free Action",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "191"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Protection",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "3000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "191"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Resistance",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "3500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "192"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Spell Storing",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "3600",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "192"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of the Ram",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "193"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of X-Ray Vision",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "3500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "193"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Regeneration",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "40000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "191"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Shooting Stars",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "20000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "192"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Telekinesis",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "25000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "193"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Djinni Summoning",
+		"attune": true,
+		"rarity": "Legendary",
+		"cost": "125000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "190"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Elemental Command",
+		"attune": true,
+		"rarity": "Legendary",
+		"cost": "200000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "190"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Invisibility",
+		"attune": true,
+		"rarity": "Legendary",
+		"cost": "75000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "191"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Spell Turning",
+		"attune": true,
+		"rarity": "Legendary",
+		"cost": "66000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "193"
+			}
+		]
+	},
+	{
+		"type": "Ring",
+		"name": "Ring of Three Wishes",
+		"attune": false,
+		"rarity": "Legendary",
+		"cost": "97950",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "193"
+			}
+		]
+	}
+]

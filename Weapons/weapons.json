@@ -1,0 +1,737 @@
+[
+	{
+		"type": "Weapon",
+		"name": "Moon-Touched Sword (any sword)",
+		"rarity": "Common",
+		"cost": "75",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "138"
+			}
+		],
+		"attune": false
+	},
+	{
+		"type": "Weapon",
+		"name": "Veteran's Cane",
+		"rarity": "Common",
+		"cost": "50",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "139"
+			}
+		],
+		"attune": false
+	},
+	{
+		"type": "Weapon",
+		"name": "+1 Weapon (any)",
+		"rarity": "Uncommon",
+		"cost": "500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "213"
+			}
+		],
+		"attune": false
+	},
+	{
+		"type": "Weapon",
+		"name": "Blood Spear",
+		"rarity": "Uncommon",
+		"cost": "375",
+		"reference": [
+			{
+				"book": "Curse of Strahd",
+				"page": "221"
+			}
+		],
+		"attune": true
+	},
+	{
+		"type": "Weapon",
+		"name": "Ild Rune Weapon (any weapon)",
+		"rarity": "Uncommon",
+		"cost": "400",
+		"reference": [
+			{
+				"book": "Storm King's Thunder",
+				"page": "235"
+			}
+		],
+		"attune": false
+	},
+	{
+		"type": "Weapon",
+		"name": "Javelin of Lightning",
+		"rarity": "Uncommon",
+		"cost": "350",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "178"
+			}
+		],
+		"attune": false
+	},
+	{
+		"type": "Weapon",
+		"name": "Seeker Dart",
+		"rarity": "Uncommon",
+		"cost": "100",
+		"reference": [
+			{
+				"book": "Princes of the Apocalypse",
+				"page": "223"
+			}
+		],
+		"attune": false
+	},
+	{
+		"type": "Weapon",
+		"name": "Shatterspike (longsword)",
+		"rarity": "Uncommon",
+		"cost": "550",
+		"reference": [
+			{
+				"book": "Tales from the Yawning Portal",
+				"page": "229"
+			}
+		],
+		"attune": true
+	},
+	{
+		"type": "Weapon",
+		"name": "Skold Rune Weapon (any two-handed melee weapon)",
+		"rarity": "Uncommon",
+		"cost": "500",
+		"reference": [
+			{
+				"book": "Storm King's Thunder",
+				"page": "234"
+			}
+		],
+		"attune": false
+	},
+	{
+		"type": "Weapon",
+		"name": "Storm Boomerang",
+		"rarity": "Uncommon",
+		"cost": "150",
+		"reference": [
+			{
+				"book": "Princes of the Apocalypse",
+				"page": "223"
+			}
+		],
+		"attune": false
+	},
+	{
+		"type": "Weapon",
+		"name": "Sword of Vengeance (any sword)",
+		"rarity": "Uncommon",
+		"cost": "400",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "206"
+			}
+		],
+		"attune": true
+	},
+	{
+		"type": "Weapon",
+		"name": "Trident of Fish Command",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "300",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "209"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Weapon of Warning",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "400",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "213"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "+2 Weapon (any)",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "2500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "213"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Berserker Axe (cursed)",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "2000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "155"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Dagger of Venom",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "1500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "161"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Dragon Slayer (any sword)",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "4800",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "166"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Dragontooth Dagger",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "5000",
+		"reference": [
+			{
+				"book": "The Rise of Tiamat",
+				"page": "93"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Flame Tongue (any sword)",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "5000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "170"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Giant Slayer (any axe or sword)",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "4600",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "172"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Mace of Disruption",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "1750",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "179"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Mace of Smiting",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "2000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "179"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Mace of Terror",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "3500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "180"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Sun Blade (longsword)",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "2000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "205"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Sword of Life Stealing (any sword)",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "2200",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "206"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Sword of Wounding (any sword)",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "1200",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "207"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Vicious Weapon (any weapon)",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "4000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "209"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "+3 Weapon (any)",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "15000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "213"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Dancing Sword (any sword)",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "10000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "161"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Dwarven Thrower (warhammer)",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "25000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "167"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Frost Brand (any sword)",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "11000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "171"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Nine Lives Stealer (any sword)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Very Rare",
+		"cost": "36000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "183"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Oathbow (longbow)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Very Rare",
+		"cost": "13000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "183"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Scimitar of Speed",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Very Rare",
+		"cost": "7500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "199"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Spear of Backbiting (spear or javelin)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Very Rare",
+		"cost": "6500",
+		"reference": [
+			{
+				"book": "Tales from the Yawning Portal",
+				"page": "229"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Sword of Sharpness (slashing swords)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Very Rare",
+		"cost": "42000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "206"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Bookmark (dagger)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "30000",
+		"reference": [
+			{
+				"book": "Tomb of Annihilation",
+				"page": "206"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Dawnbringer (longsword)",
+		"attune": true,
+		"prerequisites": [
+			"Non-evil"
+		],
+		"rarity": "Legendary",
+		"cost": "57000",
+		"reference": [
+			{
+				"book": "Out of the Abyss",
+				"page": "222"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Defender (any sword)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "55000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "164"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Drown (trident)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "66000",
+		"reference": [
+			{
+				"book": "Princes of the Apocalypse",
+				"page": "224"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Gurt's Greataxe",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "67000",
+		"reference": [
+			{
+				"book": "Storm King's Thunder",
+				"page": "234"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Hammer of Thunderbolts (maul)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "51000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "173"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Hazirawn (greatsword)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "66000",
+		"reference": [
+			{
+				"book": "Hoard of the Dragon Queen",
+				"page": "94"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Holy Avenger (any sword)",
+		"attune": true,
+		"prerequisites": [
+			"Paladin"
+		],
+		"rarity": "Legendary",
+		"cost": "65000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "174"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Ironfang (war pick)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "76000",
+		"reference": [
+			{
+				"book": "Princes of the Apocalypse",
+				"page": "224-225"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Korolnor Scepter",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "63000",
+		"reference": [
+			{
+				"book": "Storm King's Thunder",
+				"page": "234-235"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Luck Blade (any sword)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "100000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "179"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Orcsplitter (greataxe)",
+		"attune": true,
+		"prerequisites": [
+			"Good alignment Dwarf",
+			"Good alignment Fighter",
+			"Good alignment Paladin"
+		],
+		"rarity": "Legendary",
+		"cost": "60000",
+		"reference": [
+			{
+				"book": "Princes of the Apocalypse",
+				"page": "224"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Sunsword (longsword)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "55000",
+		"reference": [
+			{
+				"book": "Curse of Strahd",
+				"page": "223"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Sword of Answering (longsword)",
+		"attune": true,
+		"prerequisites": [
+			"Same alignment"
+		],
+		"rarity": "Legendary",
+		"cost": "51000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "206"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Tinderstrike (dagger)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "71000",
+		"reference": [
+			{
+				"book": "Princes of the Apocalypse",
+				"page": "225"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Vorpal Sword (slashing swords)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "75000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "209"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Waythe (greatsword)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "62000",
+		"reference": [
+			{
+				"book": "Tales from the Yawning Portal",
+				"page": "229"
+			}
+		]
+	},
+	{
+		"type": "Weapon",
+		"name": "Windvane (spear)",
+		"attune": true,
+		"prerequisites": null,
+		"rarity": "Legendary",
+		"cost": "68000",
+		"reference": [
+			{
+				"book": "Princes of the Apocalypse",
+				"page": "225"
+			}
+		]
+	}
+]

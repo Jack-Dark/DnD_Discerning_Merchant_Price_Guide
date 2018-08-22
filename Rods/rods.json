@@ -1,0 +1,158 @@
+[
+    {
+        "type": "Rod",
+        "name": "Immovable Rod",
+        "attune": false,
+        "rarity": "Uncommon",
+        "cost": "500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "175"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of the Pact Keeper (+1)",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "197"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of Rulership",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "3600",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "197"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of the Pact Keeper (+2)",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "4000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "197"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of the Vonindod",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "3400",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "236"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Tentacle Rod",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "2000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "208"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of Absorption",
+        "attune": true,
+        "rarity": "Very Rare",
+        "cost": "48000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "195"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of Alertness",
+        "attune": true,
+        "rarity": "Very Rare",
+        "cost": "11000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "196"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of Security",
+        "attune": false,
+        "rarity": "Very Rare",
+        "cost": "45000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "197"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of the Pact Keeper (+3)",
+        "attune": true,
+        "rarity": "Very Rare",
+        "cost": "14000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "197"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of Lordly Might",
+        "attune": true,
+        "rarity": "Legendary",
+        "cost": "70000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "196"
+            }
+        ]
+    },
+    {
+        "type": "Rod",
+        "name": "Rod of Resurrection",
+        "attune": true,
+        "rarity": "Legendary",
+        "cost": "125000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "197"
+            }
+        ]
+    }
+]

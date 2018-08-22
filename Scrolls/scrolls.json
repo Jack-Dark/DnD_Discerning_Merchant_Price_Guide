@@ -1,0 +1,196 @@
+[
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "Cantrip",
+		"rarity": "Common",
+		"cost": "15",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 13,
+		"attackBonus": "+5"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "1st Level",
+		"rarity": "Common",
+		"cost": "25",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 13,
+		"attackBonus": "+5"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "2nd Level",
+		"rarity": "Uncommon",
+		"cost": "150",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 13,
+		"attackBonus": "+5"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "3rd Level",
+		"rarity": "Uncommon",
+		"cost": "400",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 15,
+		"attackBonus": "+7"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "4th Level",
+		"rarity": "Rare",
+		"cost": "800",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 15,
+		"attackBonus": "+7"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "5th Level",
+		"rarity": "Rare",
+		"cost": "1500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 17,
+		"attackBonus": "+9"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "Scroll of Protection",
+		"rarity": "Rare",
+		"cost": "3500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "199"
+			}
+		],
+		"saveDc": null,
+		"attackBonus": null
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "6th Level",
+		"rarity": "Very Rare",
+		"cost": "2000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 17,
+		"attackBonus": "+9"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "7th Level",
+		"rarity": "Very Rare",
+		"cost": "3500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 18,
+		"attackBonus": "+10"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "8th Level",
+		"rarity": "Very Rare",
+		"cost": "5000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 18,
+		"attackBonus": "+10"
+	},
+	{
+		"type": "Spell Scroll or Gem",
+		"name": "9th Level",
+		"rarity": "Legendary",
+		"cost": "20000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			},
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		],
+		"saveDc": 19,
+		"attackBonus": "+11"
+	}
+]

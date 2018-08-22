@@ -1,0 +1,243 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Clockwork Amulet",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "100",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Dark Shard Amulet",
+        "attune": true,
+        "prerequisites": "Warlock",
+        "rarity": "Common",
+        "cost": "75",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Amulet of Proof Against Detection and Location",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "150"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Brooch of Shielding",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "375",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "156"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Medallion of Thoughts",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "300",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "181"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Necklace of Adaptation",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "450",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "182"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Periapt of Health",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "184"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Periapt of Wound Closure",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "375",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "184"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Amulet of Health",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "150"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Amulet of Protection from Turning",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3600",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "228"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Necklace of Fireballs",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4350",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "182"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Necklace of Prayer Beads",
+        "attune": true,
+        "prerequisites": "(cleric/druid/paladin)",
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "182"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Periapt of Proof Against Poison",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4700",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "184"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Amulet of the Black Skull",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "6400",
+        "reference": [
+            {
+                "book": "Tomb of Annihilation",
+                "page": "206"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Amulet of the Planes",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "43000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "150"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Holy Symbol of Ravenkind",
+        "attune": true,
+        "prerequisites": [
+            "Good alignment Cleric",
+            "Good alignment Paladin"
+        ],
+        "rarity": "Legendary",
+        "cost": "51000",
+        "reference": [
+            {
+                "book": "Curse of Strahd",
+                "page": "222"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Scarab of Protection",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "58000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "199"
+            }
+        ]
+    }
+]

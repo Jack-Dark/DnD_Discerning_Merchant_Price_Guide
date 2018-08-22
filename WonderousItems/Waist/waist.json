@@ -1,0 +1,80 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Belt of Dwarvenkind",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Belt of Giant Strength (Hill)",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "4000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Belt of Giant Strength (Stone/Frost)",
+        "attune": true,
+        "rarity": "Very Rare",
+        "cost": "12000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Belt of Giant Strength (Fire)",
+        "attune": true,
+        "rarity": "Very Rare",
+        "cost": "36000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Belt of Giant Strength (Cloud)",
+        "attune": true,
+        "rarity": "Legendary",
+        "cost": "66000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Belt of Giant Strength (Storm)",
+        "attune": true,
+        "rarity": "Legendary",
+        "cost": "100000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "155"
+            }
+        ]
+    }
+]

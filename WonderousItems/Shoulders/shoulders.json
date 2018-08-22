@@ -1,0 +1,223 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Cloak of Billowing",
+        "attune": false,
+        "rarity": "Common",
+        "cost": "100",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "136"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cloak of Many Fashions",
+        "attune": false,
+        "rarity": "Common",
+        "cost": "90",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "136"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cloak of Elvenkind",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "158"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cloak of Protection",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "159"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cloak of the Manta Ray",
+        "attune": false,
+        "rarity": "Uncommon",
+        "cost": "350",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "159"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Piwafwi (Cloak of Elvenkind)",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "200",
+        "reference": [
+            {
+                "book": "Out of the Abyss",
+                "page": "222"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cape of the Mountebank",
+        "attune": false,
+        "rarity": "Rare",
+        "cost": "3900",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "157"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cloak of Displacement",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "3600",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "158"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cloak of the Bat",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "4600",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "159"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Hell Hound Cloak",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "1700",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "228"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Ise Rune Cloak",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "1200",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "237"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Mantle of Spell Resistance",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "4200",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "180"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Piwafwi of Fire Resistance",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "1400",
+        "reference": [
+            {
+                "book": "Out of the Abyss",
+                "page": "222"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Vind Rune Cloak",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "650",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "236"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Wings of Flying",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "3600",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "214"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cloak of Arachnida",
+        "attune": true,
+        "rarity": "Very Rare",
+        "cost": "14000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "158"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cloak of Invisibility",
+        "attune": true,
+        "rarity": "Legendary",
+        "cost": "54000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "158-159"
+            }
+        ]
+    }
+]

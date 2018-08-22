@@ -1,0 +1,156 @@
+[
+	{
+		"type": "Shield",
+		"name": "Shield of Expression",
+		"rarity": "Common",
+		"cost": "50",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "139"
+			}
+		],
+		"attune": false,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "+1 Shield",
+		"rarity": "Uncommon",
+		"cost": "450",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			}
+		],
+		"attune": false,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "Sentinel Shield",
+		"rarity": "Uncommon",
+		"cost": "300",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "199"
+			}
+		],
+		"attune": false,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "+2 Shield",
+		"rarity": "Rare",
+		"cost": "4000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			}
+		],
+		"attune": false,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "Arrow-Catching Shield",
+		"rarity": "Rare",
+		"cost": "4500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "152"
+			}
+		],
+		"attune": true,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "Shield of Missile Attraction",
+		"rarity": "Rare",
+		"cost": "1000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			}
+		],
+		"attune": true,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "Skold Rune Shield",
+		"rarity": "Rare",
+		"cost": "2600",
+		"reference": [
+			{
+				"book": "Storm King's Thunder",
+				"page": "234"
+			}
+		],
+		"attune": true,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "Stein Rune Shield",
+		"rarity": "Rare",
+		"cost": "4600",
+		"reference": [
+			{
+				"book": "Storm King's Thunder",
+				"page": "235"
+			}
+		],
+		"attune": true,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "+3 Shield",
+		"rarity": "Very Rare",
+		"cost": "22000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "200"
+			}
+		],
+		"attune": false,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "Animated Shield",
+		"rarity": "Very Rare",
+		"cost": "6000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "151"
+			}
+		],
+		"attune": true,
+		"prerequisites": null
+	},
+	{
+		"type": "Shield",
+		"name": "Spellguard Shield",
+		"rarity": "Very Rare",
+		"cost": "36000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "201"
+			}
+		],
+		"attune": true,
+		"prerequisites": null
+	}
+]

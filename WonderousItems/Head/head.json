@@ -1,0 +1,366 @@
+[
+{
+    "type": "Wonderous",
+    "name": "Dread Helm",
+    "attune": false,
+    "prerequisites": null,
+    "rarity": "Common",
+    "cost": "55",
+    "reference": [
+        {
+            "book": "Xanathar's Guide to Everything",
+            "page": "137"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Hat of Vermin",
+    "attune": false,
+    "prerequisites": null,
+    "rarity": "Common",
+    "cost": "65",
+    "reference": [
+        {
+            "book": "Xanathar's Guide to Everything",
+            "page": "137"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Hat of Wizardry",
+    "attune": true,
+    "prerequisites": "Wizard",
+    "rarity": "Common",
+    "cost": "75",
+    "reference": [
+        {
+            "book": "Xanathar's Guide to Everything",
+            "page": "137"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Cap of Water Breathing",
+    "attune": false,
+    "prerequisites": null,
+    "rarity": "Uncommon",
+    "cost": "450",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "157"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Circlet of Blasting",
+    "attune": false,
+    "prerequisites": null,
+    "rarity": "Uncommon",
+    "cost": "350",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "158"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Hat of Disguise",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Uncommon",
+    "cost": "475",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "173"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Headband of Intellect",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Uncommon",
+    "cost": "450",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "173"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Helm of Comprehending Languages",
+    "attune": false,
+    "prerequisites": null,
+    "rarity": "Uncommon",
+    "cost": "200",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "173"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Helm of Telepathy",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Uncommon",
+    "cost": "300",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "174"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Helm of Teleportation",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Rare",
+    "cost": "4250",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "174"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Awareness",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Rare",
+    "cost": "4000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Protection",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Rare",
+    "cost": "3600",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Reserve",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Rare",
+    "cost": "4500",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Sustenance",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Rare",
+    "cost": "3000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Helm of Brilliance",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Very Rare",
+    "cost": "32000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "173"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Absorption",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Very Rare",
+    "cost": "20000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Agility",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Very Rare",
+    "cost": "8000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Fortitude",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Very Rare",
+    "cost": "8000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Insight",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Very Rare",
+    "cost": "8000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Intellect",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Very Rare",
+    "cost": "8000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Leadership",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Very Rare",
+    "cost": "8000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Strength",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Very Rare",
+    "cost": "8000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Greater Absorption",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Legendary",
+    "cost": "60000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Mastery",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Legendary",
+    "cost": "60000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Ioun Stone: Regeneration",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Legendary",
+    "cost": "55000",
+    "reference": [
+        {
+            "book": "Dungeon Master's Guide",
+            "page": "176-177"
+        }
+    ]
+},
+{
+    "type": "Wonderous",
+    "name": "Lost Crown of Besilmer",
+    "attune": true,
+    "prerequisites": null,
+    "rarity": "Legendary",
+    "cost": "23000",
+    "reference": [
+        {
+            "book": "Princes of the Apocalypse",
+            "page": "223-224"
+        }
+    ]
+}
+]

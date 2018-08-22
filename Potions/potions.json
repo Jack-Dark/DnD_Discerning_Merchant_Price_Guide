@@ -1,0 +1,509 @@
+[
+	{
+		"type": "Potion or Oil",
+		"name": "Perfume of Bewitching",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "75",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "138"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Climbing",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "30",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Giant Strength (Hill)",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "100",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Healing",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "50",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187-188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Bottled Breath",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "350",
+		"reference": [
+			{
+				"book": "Princes of the Apocalypse",
+				"page": "222"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Oil of Slipperiness",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "250",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "184"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Philter of Love",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "150",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "184"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Animal Friendship",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "200",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Fire Breath",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "350",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Giant Strength (Frost/Stone)",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "400",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Growth",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "300",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Greater Potion of Healing",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "300",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187-188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Greater Potion of Healing",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "300",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187-188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Poison",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Resistance",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Waterbreathing",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "400",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Elixir of Health",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "2000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "168"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Oil of Etherealness",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "2000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "183"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Clairvoyance",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "900",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Diminution",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Gaseous Form",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "1500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Giant Strength (Fire)",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "1200",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Superior Potion of Healing",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "750",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187-188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Heroism",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "800",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Invulnerability",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "1500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Mind Control (beast)",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "1600",
+		"reference": [
+			{
+				"book": "Tales from the Yawning Portal",
+				"page": "229"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Mind Control (humanoid)",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "2500",
+		"reference": [
+			{
+				"book": "Tales from the Yawning Portal",
+				"page": "229"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Mind Reading",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "1100",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Oil of Sharpness",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "2200",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "184"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Flying",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "2500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Giant Strength (Cloud)",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "1800",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Supreme Potion of Healing",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "1500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187-188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Invisibility",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "2000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Longevity",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "3000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Mind Control (monster)",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "6000",
+		"reference": [
+			{
+				"book": "Tales from the Yawning Portal",
+				"page": "229"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Speed",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "2000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Vitality",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "1800",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "188"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Giant Size",
+		"attune": false,
+		"rarity": "Legendary",
+		"cost": "11000",
+		"reference": [
+			{
+				"book": "Storm King's Thunder",
+				"page": "236"
+			}
+		]
+	},
+	{
+		"type": "Potion or Oil",
+		"name": "Potion of Giant Strength (Storm)",
+		"attune": false,
+		"rarity": "Legendary",
+		"cost": "8000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "187"
+			}
+		]
+	}
+]

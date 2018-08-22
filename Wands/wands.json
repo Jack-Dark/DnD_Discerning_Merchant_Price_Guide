@@ -1,0 +1,288 @@
+[
+	{
+		"type": "Wand",
+		"name": "Wand of Conducting",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "90",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "140"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Pyrotechnics",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "65",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "140"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Scowls",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "60",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "140"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Smiles",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "60",
+		"reference": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "140"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "+1 Wand of the War Mage",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "400",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "212"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Entangle Yes ",
+		"attune": "spellcaster)",
+		"rarity": "Uncommon",
+		"cost": "300",
+		"reference": [
+			{
+				"book": "Tales from the Yawning Portal",
+				"page": "229"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Magic Detection",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "150",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "211"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Magic Missiles",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "300",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "211"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Secrets",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "125",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "211"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Web",
+		"attune": true,
+		"rarity": "Uncommon",
+		"cost": "250",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "212"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "+2 Wand of the War Mage",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "212"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Binding",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "2500",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "209"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Enemy Detection",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "3750",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "210"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Fear",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "3250",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "210"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Fireballs",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4800",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "210"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Lightning Bolts",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4800",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "211"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Paralysis",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4250",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "211"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Viscid Globs",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "900",
+		"reference": [
+			{
+				"book": "Out of the Abyss",
+				"page": "223"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Winter",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "4100",
+		"reference": [
+			{
+				"book": "Hoard of the Dragon Queen",
+				"page": "94"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Wonder",
+		"attune": true,
+		"rarity": "Rare",
+		"cost": "2250",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "212"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "+3 Wand of the War Mage",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "14000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "212"
+			}
+		]
+	},
+	{
+		"type": "Wand",
+		"name": "Wand of Polymorph",
+		"attune": true,
+		"rarity": "Very Rare",
+		"cost": "21000",
+		"reference": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "211"
+			}
+		]
+	}
+]

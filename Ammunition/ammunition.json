@@ -1,0 +1,86 @@
+[
+	{
+		"type": "Ammunition",
+		"name": "Unbreakable Arrow (arrow)",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "25",
+		"prerequisites": null,
+		"referene": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "139"
+			}
+		]
+	},
+	{
+		"type": "Ammunition",
+		"name": "Walloping Ammunition (any)",
+		"attune": false,
+		"rarity": "Common",
+		"cost": "30",
+		"prerequisites": null,
+		"referene": [
+			{
+				"book": "Xanathar's Guide to Everything",
+				"page": "139"
+			}
+		]
+	},
+	{
+		"type": "Ammunition",
+		"name": "+1 Ammunition (any)",
+		"attune": false,
+		"rarity": "Uncommon",
+		"cost": "50",
+		"prerequisites": null,
+		"referene": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "150"
+			}
+		]
+	},
+	{
+		"type": "Ammunition",
+		"name": "+2 Ammunition (any)",
+		"attune": false,
+		"rarity": "Rare",
+		"cost": "250",
+		"prerequisites": null,
+		"referene": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "150"
+			}
+		]
+	},
+	{
+		"type": "Ammunition",
+		"name": "+3 Ammunition (any)",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "2500",
+		"prerequisites": null,
+		"referene": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "150"
+			}
+		]
+	},
+	{
+		"type": "Ammunition",
+		"name": "Arrow of Slaying (any)",
+		"attune": false,
+		"rarity": "Very Rare",
+		"cost": "1000",
+		"prerequisites": null,
+		"referene": [
+			{
+				"book": "Dungeon Master's Guide",
+				"page": "152"
+			}
+		]
+	}
+]

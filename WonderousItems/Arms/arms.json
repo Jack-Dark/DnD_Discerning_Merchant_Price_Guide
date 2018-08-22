@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Bracers of Archery",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "350",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "156"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bracers of Defense",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "4000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "156"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bracelet of Rock Magic",
+        "attune": true,
+        "rarity": "Very Rare",
+        "cost": "9000",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "228"
+            }
+        ]
+    }
+]

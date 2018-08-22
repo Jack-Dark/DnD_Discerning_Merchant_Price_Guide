@@ -1,0 +1,1976 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Bead of Nourishment",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "25",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "136"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bead of Refreshment",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "25",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "136"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Candle of the Deep",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "136"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Charlatan's Die",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "80",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "136"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Ear Horn of Hearing",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "75",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Enduring Spellbook",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "100",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Heward's Handy Spice Pouch",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "100",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Horn of Silent Alarm",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "85",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of Illusions",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "100",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of Scribing",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "80",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Lock of Trickery",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Mystery Key",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Orb of Direction",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Orb of Time",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Pipe of Smoke Monsters",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Pole of Angling",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Pole of Collapsing",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "55",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Pot of Awakening",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "85",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Rope of Mending",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Ruby of the War Mage",
+        "attune": true,
+        "prerequisites": "Spellcaster",
+        "rarity": "Common",
+        "cost": "100",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "138"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Talking Doll",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "75",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "139"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Tankard of Sobriety",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Common",
+        "cost": "80",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "139"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Alchemy Jug",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "100",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "150"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bag of Holding",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "153-154"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bag of Tricks",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "350",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "154"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Balance of Harmony",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "200",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "228"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Balloon Pack",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "275",
+        "reference": [
+            {
+                "book": "Princes of the Apocalypse",
+                "page": "222"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Broom of Flying",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "450",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "156"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Decanter of Endless Water",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "300",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "161"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Deck of Illusions",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "450",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "161-162"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Driftglobe",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "100",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "166"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Dust of Disappearance",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "200",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "166"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Dust of Dryness",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "350",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "166"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Dust of Sneezing and Choking",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "150",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "166"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Elemental Gem",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "168"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Eversmoking Bottle",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "270",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "168"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Silver Raven)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "380",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "170"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Gem of Brightness",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "171"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Insignia of Claws",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "450",
+        "reference": [
+            {
+                "book": "Hoard of the Dragon Queen",
+                "page": "94"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of the Bards (Doss Lute)",
+        "attune": true,
+        "prerequisites": "Bard",
+        "rarity": "Uncommon",
+        "cost": "250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "176"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of the Bards (Fochlucan Bandore)",
+        "attune": true,
+        "prerequisites": "Bard",
+        "rarity": "Uncommon",
+        "cost": "350",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "176"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of the Bards (Mac-Fuimidh Cittern)",
+        "attune": true,
+        "prerequisites": "Bard",
+        "rarity": "Uncommon",
+        "cost": "450",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "176"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Keoghtom's Ointment",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "179"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Lantern of Revealing",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "179"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Night Caller",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "350",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "228"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Pearl of Power",
+        "attune": true,
+        "prerequisites": "Spellcaster",
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "184"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Pipes of Haunting",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "300",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "185"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Pipes of the Sewers",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "150",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "185"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Quiver of Ehlonna",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "189"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Rope of Climbing",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "350",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "197"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Saddle of the Cavalier",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "199"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Sending Stones",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "199"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Stone of Good Luck",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "205"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Stone of Ill Luck",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "229"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Wind Fan",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Uncommon",
+        "cost": "150",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "213"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bag of Beans",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4200",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "152"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Banner of the Krig Rune",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4400",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "233"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bead of Force",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "154"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Blod Stone",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "6500",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "233"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bowl of Commanding Water Elementals",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4700",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "156"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Brazier of Commanding Fire Elementals",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4700",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "156"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Censer of Controlling Air Elementals",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4700",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "158"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Chime of Opening",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "158"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Claw of the Wyrm Rune",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4400",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "233"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cube of Force",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "159-160"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Daern's Instant Fortress",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "160-161"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Dimensional Shackles",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "2800",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "165"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Eagle Whistle",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "600",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "228"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Bronze Griffon)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3600",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "169"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Ebony Fly)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3600",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "169"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Golden Lions)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "169"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Ivory Goats)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "169"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Marble Elephant)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "170"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Onyx Dog)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3200",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "170"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Serpentine Owl)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "170"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Folding Boat",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4750",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "170-171"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Gavel of the Venn Rune",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "2800",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "234"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Gem of Seeing",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "172"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Ghost Lantern",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "1750",
+        "reference": [
+            {
+                "book": "Tomb of Annihilation",
+                "page": "206"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Heward's Handy Haversack",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "2000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "174"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Horn of Blasting",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "2500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "174-175"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Horn of Valhalla (Silver/Brass)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "175"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Horseshoes of Speed",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "175"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of the Bards (Canaith Mandolin)",
+        "attune": true,
+        "prerequisites": "Bard",
+        "rarity": "Rare",
+        "cost": "3750",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "176"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of the Bards (Cli Lyre)",
+        "attune": true,
+        "prerequisites": "Bard",
+        "rarity": "Rare",
+        "cost": "4250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "176"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Iron Bands of Bilarro",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "2600",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "177"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Loadstone",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "150",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "228"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Mirror of the Past",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3800",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "228"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Opal of the Ild Rune",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "3500",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "235"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Orb of the Stein Rune",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "2700",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "235"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Portable Hole",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "185-187"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Quaal's Feather Token",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "1000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "188-189"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Rope of Entanglement",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "1000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "197-199"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Stone of Controlling Earth Elementals",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4700",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "205"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Stonespeaker Crystal",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "4600",
+        "reference": [
+            {
+                "book": "Out of the Abyss",
+                "page": "223"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Weird Tank",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Rare",
+        "cost": "2200",
+        "reference": [
+            {
+                "book": "Princes of the Apocalypse",
+                "page": "223"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Bag of Devouring",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "12000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "153"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Candle of Invocation",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "8400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "157"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Carpet of Flying",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "44000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "157"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Conch of Teleportation",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "1850",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "234"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Crystal Ball",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "42000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "159"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Devastation Orb (Air)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "8000",
+        "reference": [
+            {
+                "book": "Princes of the Apocalypse",
+                "page": "222"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Devastation Orb (Earth)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "11000",
+        "reference": [
+            {
+                "book": "Princes of the Apocalypse",
+                "page": "222"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Devastation Orb (Fire)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "9500",
+        "reference": [
+            {
+                "book": "Princes of the Apocalypse",
+                "page": "222"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Devastation Orb (Water)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "9500",
+        "reference": [
+            {
+                "book": "Princes of the Apocalypse",
+                "page": "223"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Efreeti Bottle",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "45000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "167"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Figurine of Wondrous Power (Obsidian Steed)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "28500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "170"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Horn of Valhalla (Bronze)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "20000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "175"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Horseshoes of a Zephyr",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "6000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "175"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Ingot of the Skold Rune",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "15000",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "234"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of the Bards (Anstruth Harp)",
+        "attune": true,
+        "prerequisites": "Bard",
+        "rarity": "Very Rare",
+        "cost": "17500",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "176"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Manual of Bodily Health",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "36000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "180"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Manual of Gainful Exercise",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "36000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "180"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Manual of Golems",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "22000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "180-181"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Manual of Quickness of Action",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "36000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "181"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Mirror of Life Trapping",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "50000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "181-182"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Navigation Orb",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "27000",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "235"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Nolzur's Marvelous Pigments",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "16000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "183"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Pennant of the Vind Rune",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "13000",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "235-236"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Shard of the Ise Rune",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "9000",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "236"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Tome of Clear Thought",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "36000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "208"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Tome of Leadership and Influence",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "36000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "208"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Tome of Understanding",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Very Rare",
+        "cost": "36000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "209"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Apparatus of Kwalish",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "90000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "151"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Crystal Ball of Mind Reading",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "51000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "159"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Crystal Ball of Telepathy",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "70000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "159"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Crystal Ball of True Seeing",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "80000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "159"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Cubic Gate",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "164000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "160"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Deck of Many Things",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "200000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "162-164"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Horn of Valhalla (Iron)",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "50000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "175"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Icon of Ravenloft",
+        "attune": true,
+        "prerequisites": "Good alignment",
+        "rarity": "Legendary",
+        "cost": "50500",
+        "reference": [
+            {
+                "book": "Curse of Strahd",
+                "page": "222"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Instrument of the Bards (Ollamh Harp)",
+        "attune": true,
+        "prerequisites": "Bard",
+        "rarity": "Legendary",
+        "cost": "51000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "176"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Iron Flask",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "170000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "178"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Sovereign Glue",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "200"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Sphere of Annihilation",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "200000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "201"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Talisman of Pure Good",
+        "attune": true,
+        "prerequisites": "Good alignment",
+        "rarity": "Legendary",
+        "cost": "125000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "207"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Talisman of the Sphere",
+        "attune": true,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "75000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "207"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Talisman of Ultimate Evil",
+        "attune": true,
+        "prerequisites": "Evil alignment",
+        "rarity": "Legendary",
+        "cost": "125000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "207"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Tome of the Stilled Tongue",
+        "attune": true,
+        "prerequisites": "Wizard",
+        "rarity": "Legendary",
+        "cost": "60000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "208"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Universal Solvent",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "209"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Well of Many Worlds",
+        "attune": false,
+        "prerequisites": null,
+        "rarity": "Legendary",
+        "cost": "90000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "213"
+            }
+        ]
+    }
+]

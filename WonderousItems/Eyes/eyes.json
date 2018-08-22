@@ -1,0 +1,93 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Ersatz Eye",
+        "attune": true,
+        "rarity": "Common",
+        "cost": "75",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Eyes of Charming",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "300",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "168"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Eyes of Minute Seeing",
+        "attune": false,
+        "rarity": "Uncommon",
+        "cost": "150",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "168"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Eyes of the Eagle",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "168"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Goggles of Night",
+        "attune": false,
+        "rarity": "Uncommon",
+        "cost": "300",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "172"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Mast of the Beast",
+        "attune": false,
+        "rarity": "Uncommon",
+        "cost": "200",
+        "reference": [
+            {
+                "book": "Tomb of Annihilation",
+                "page": "207"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Black Dragon Mask",
+        "attune": true,
+        "rarity": "Legendary",
+        "cost": "95000",
+        "reference": [
+            {
+                "book": "Hoard of the Dragon Queen",
+                "page": "94"
+            }
+        ]
+    }
+]

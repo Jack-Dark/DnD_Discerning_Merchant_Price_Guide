@@ -1,0 +1,119 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Clothes of Mending",
+        "attunement": false,
+        "rarity": "Common",
+        "cost": "50",
+        "reference": [
+            {
+                "book": "Xanathar's Guide to Everything",
+                "page": "137"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Robe of Serpents",
+        "attunement": true,
+        "rarity": "Uncommon",
+        "cost": "375",
+        "reference": [
+            {
+                "book": "Storm King's Thunder",
+                "page": "236"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Robe of Useful Items",
+        "attunement": false,
+        "rarity": "Uncommon",
+        "cost": "400",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "195"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Wingwear",
+        "attunement": true,
+        "rarity": "Uncommon",
+        "cost": "300",
+        "reference": [
+            {
+                "book": "Princes of the Apocalypse",
+                "page": "223"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Robe of Eyes",
+        "attunement": true,
+        "rarity": "Rare",
+        "cost": "5000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "193-194"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Robe of Summer",
+        "attunement": true,
+        "rarity": "Rare",
+        "cost": "2900",
+        "reference": [
+            {
+                "book": "Tales from the Yawning Portal",
+                "page": "229"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Robe of Scintillating Colors",
+        "attunement": true,
+        "rarity": "Very Rare",
+        "cost": "27000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "194"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Robe of Stars",
+        "attunement": true,
+        "rarity": "Very Rare",
+        "cost": "45000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "194"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Robe of the Archmagi",
+        "attunement": true,
+        "rarity": "Legendary",
+        "cost": "75000",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "194"
+            }
+        ]
+    }
+]

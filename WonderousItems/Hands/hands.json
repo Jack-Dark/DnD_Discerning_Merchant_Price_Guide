@@ -1,0 +1,67 @@
+[
+    {
+        "type": "Wonderous",
+        "name": "Gauntlets of Ogre Power",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "450",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "171"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Gloves of Missile Snaring",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "325",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "172"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Gloves of Swimming and Climbing",
+        "attune": true,
+        "rarity": "Uncommon",
+        "cost": "250",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "172"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Gloves of Thievery",
+        "attune": false,
+        "rarity": "Uncommon",
+        "cost": "300",
+        "reference": [
+            {
+                "book": "Dungeon Master's Guide",
+                "page": "172"
+            }
+        ]
+    },
+    {
+        "type": "Wonderous",
+        "name": "Claws of the Umber Hulk",
+        "attune": true,
+        "rarity": "Rare",
+        "cost": "4300",
+        "reference": [
+            {
+                "book": "Princes of the Apocalypse",
+                "page": "222"
+            }
+        ]
+    }
+]
